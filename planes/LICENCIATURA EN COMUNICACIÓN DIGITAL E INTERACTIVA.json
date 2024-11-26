@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN COMUNICACIÓN DIGITAL E INTERACTIVA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE EXPRESIÓN ESCRITA",
+                        "PSICOLOGÍA DE LAS REDES",
+                        "INTRODUCCIÓN A LA PRODUCCIÓN AUDIOVISUAL",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+                        "HISTORIA CONTEMPORÁNEA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CIENCIA DE DATOS",
+                        "DISEÑO DE LA INFORMACIÓN PARA LA COMUNICACIÓN",
+                        "TALLER DE PROGRAMACIÓN I",
+                        "GÉNEROS Y FORMATOS NARRATIVOS",
+                        "TALLER DE EXPRESIÓN ORAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TEORÍA DE LA COMUNICACIÓN",
+                        "PERIODISMO DE DATOS",
+                        "CONTENIDOS CULTURALES ",
+                        "TALLER DE NARRATIVAS DIGITALES",
+                        "TALLER DE PROGRAMACIÓN II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONVERGENCIA Y PARADIGMAS TECNOLÓGICOS",
+                        "GUIÓN",
+                        "TALLER DE NARRATIVAS DE NO FICCIÓN",
+                        "HISTORIA DE LA COMUNICACIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL I: SONIDO",
+                        "ECONOMÍA E INFORMACIÓN ECONÓMICA",
+                        "DISEÑO DE EXPERIENCIA DE USUARIO",
+                        "TALLER DE INTEGRACIÓN: CASOS",
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL II: VIDEO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ANÁLISIS Y DESARROLLO DE AUDIENCIAS",
+                        "INVESTIGACIÓN PERIODÍSTICA",
+                        "GEOPOLÍTICA DE LOS CONTENIDOS",
+                        "2 MATERIAS OPTATIVAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "COMUNICACIÓN POLÍTICA Y CAMPAÑAS ELECTORALES",
+                        "EMPRENDIMIENTOS DE EMPRESAS DE CONTENIDOS",
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL III: TRANSMEDIA",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PLATAFORMAS MEDIÁTICAS",
+                        "COMUNICACIÓN CORPORATIVA Y ASUNTOS PÚBLICOS",
+                        "MARCO REGULATORIO DE LA INFORMACIÓN",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

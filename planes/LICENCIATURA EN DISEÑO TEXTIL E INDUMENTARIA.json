@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO TEXTIL E INDUMENTARIA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MACRO DISEÑO: PRINCIPIOS Y METODOLOGÍA",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "INTRODUCCIÓN AL DISEÑO DE INDUMENTARIA: PRODUCTO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MOLDERÍA E INTRODUCCIÓN A LA GEOMETRÍA ESPACIAL",
+                        "TALLER DE DISEÑO DE INDUMENTARIA: FICCIÓN",
+                        "COMUNICACIÓN Y SEMIÓTICA",
+                        "EXPLORACIÓN DE LENGUAJES VISUALES",
+                        "HISTORIA DEL TRAJE Y DE LOS TEXTILES I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INDUMENTARIA I",
+                        "TÉCNICAS DE PRODUCCIÓN TEXTIL I",
+                        "MORFOLOGÍA",
+                        "TÉCNICAS DE PRODUCCIÓN PARA LA INDUSTRIA DE LA CONFECCION",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO TEXTIL I",
+                        "SOCIOLOGÍA DE LA MODA",
+                        "MOLDERÍA MASCULINA E INTRODUCCIÓN A LA SASTRERÍA",
+                        "DISEÑO DE OBJETUALIDADES COMPLEMENTARIAS Y ARTEFACTOS HÍBRIDOS",
+                        "COMPORTAMIENTO DEL CONSUMIDOR"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INDUMENTARIA II",
+                        "TÉCNICAS DE PRODUCCIÓN TEXTIL II",
+                        "DISEÑO DE INDUMENTARIA DEPORTIVA",
+                        "ESTUDIOS CULTURALES SOBRE MODA",
+                        "HISTORIA DEL TRAJE Y DE LOS TEXTILES II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (1 MATERIA)",
+                        "DISEÑO TEXTIL II",
+                        "DISEÑO DE PRODUCTO ESPECIAL, RESPONSABILIDAD SOCIAL Y PRINCIPIOS DE SUSTENTABILIDAD",
+                        "PROYECTO PROFESIONAL INTEGRAL PARA DISEÑO TEXTIL E INDUMENTARIA",
+                        "BIODISEÑO: INNOVACIÓN EN MATERIALES E INVESTIGACIÓN TEXTIL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INDUMENTARIA III",
+                        "DISEÑO DE PORTFOLIO",
+                        "TINTORERÍA Y ESTAMPACIÓN",
+                        "SEMINARIO TÓPICOS DE AVANZADA",
+                        "TENDENCIAS ESTÉTICAS DE CONSUMO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (1 MATERIA)",
+                        "DISEÑO TEXTIL III",
+                        "PLAN DE NEGOCIOS DE DISEÑO",
+                        "TRABAJO DE INTEGRACIÓN FINAL DE DISEÑO TEXTIL E INDUMENTARIA"
+                    ]
+                }
+            ]
+        }
+    ]
+}

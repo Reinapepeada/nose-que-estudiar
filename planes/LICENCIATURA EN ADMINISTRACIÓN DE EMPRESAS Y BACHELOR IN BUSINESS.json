@@ -1,0 +1,128 @@
+{
+    "Carrera": "LICENCIATURA EN ADMINISTRACIÓN DE EMPRESAS Y BACHELOR IN BUSINESS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "ESCRITURA Y ORALIDAD",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MATEMÁTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "CONTABILIDAD I",
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "ENGLISH COMPOSITION I – SIU"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MICROECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "PLATAFORMAS Y NEGOCIOS WEB",
+                        "DERECHO DEL TRABAJO INDIVIDUAL",
+                        "DESARROLLO INTERNACIONAL DE NEGOCIOS",
+                        "ENGLISH COMPOSITION II – SIU"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OBLIGACIONES, CONTRATOS Y SOCIEDADES",
+                        "MACROECONOMÍA",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "CONTABILIDAD GERENCIAL",
+                        "GENERAL BIOLOGY – SIU"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TOTAL WELLNESS - SIU",
+                        "MARKETING MANAGEMENT - SIU",
+                        "ORGANIZATIONAL BEHAVIOR - SIU",
+                        "LEADERSHIP AND COMMUNICATION - SIU",
+                        "AMERICAN LITERATURE - SIU",
+                        "WESTERN CIVILIZATION - SIU"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE ORATORIA",
+                        "SOCIEDAD Y AMBIENTE",
+                        "CÁLCULO FINANCIERO",
+                        "SISTEMAS DE COSTOS",
+                        "PROGRAMACIÓN OPERATIVA",
+                        "GLOBAL BUSINESS STRATEGY - SIU"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ÉTICA",
+                        "IMPUESTOS",
+                        "GERENCIA DE OPERACIONES",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "FINANZAS CORPORATIVAS I",
+                        "FRENCH I – SIU"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ELEMENTOS DE PSICOLOGÍA",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "CONTROL DE GESTIÓN",
+                        "NUEVAS TENDENCIAS EN ADMINISTRACIÓN",
+                        "CONSULTORÍA",
+                        "BUSINESS CAPSTONE - SIU"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INVESTIGACIÓN DE MERCADOS I",
+                        "ANÁLISIS ESTRATÉGICO DE DATOS",
+                        "DESARROLLO EMPRESARIAL",
+                        "SIMULACIONES Y TOMA DE DECISIONES EN NEGOCIOS",
+                        "TRABAJO INTEGRADOR FINAL EN ADMINISTRACIÓN",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

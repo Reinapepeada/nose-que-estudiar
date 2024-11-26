@@ -1,0 +1,103 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO DE PRODUCTOS INTERACTIVOS Y REALIDAD VIRTUAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FUNDAMENTOS DE LA PRÁCTICA PROYECTUAL",
+                        "REPRESENTACIÓN TÉCNICA",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "MODELADO Y REPRESENTACIÓN",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: FUNDAMENTOS DEL DISEÑO DE SERVICIOS",
+                        "FORMAS Y ESPACIO TRIDIMENSIONAL",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL I",
+                        "TECNOLOGÍA DE DESARROLLO I ",
+                        "MODELOS Y MAQUETAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y ERGONOMÍA",
+                        "SISTEMAS INTERACTIVOS",
+                        "LABORATORIO DE FORMAS BÁSICAS",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: OBJETOS INTELIGENTES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERFACES",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: REALIDADES EXTENDIDAS",
+                        "LABORATORIO DE FORMAS AVANZADAS",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL II ",
+                        "TECNOLOGÍA DE DESARROLLO II "
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MANUFACTURA DIGITAL",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: DESARROLLOS DE OBJETOS Y ESPACIOS INTELIGENTES",
+                        "LABORATORIO DE FORMAS ESPECIALES",
+                        "PSICOLOGÍA DEL DISEÑO Y PROCESOS COGNITIVOS",
+                        "GESTIÓN DE EMPRESAS DE DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ROBÓTICA BÁSICA Y MECATRÓNICA APLICADA AL DISEÑO",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: INSTALACIONES Y ENTORNOS VIRTUALES",
+                        "DIRECCIÓN DE PROYECTOS",
+                        "EXPERIENCIAS NARRATIVAS PARA ENTORNOS INTERACTIVOS",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL III"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (2 MATERIAS)",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: BIEN SOCIAL",
+                        "LABORATORIO DE FORMAS COMPLEJAS",
+                        "PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (1 MATERIA)",
+                        "DISEÑO DE PORTFOLIO",
+                        "TECNOLOGÍA DE DESARROLLO III",
+                        "TRABAJO FINAL DE DISEÑO DE PRODUCTOS INTERACTIVOS Y REALIDAD VIRTUAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

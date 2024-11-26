@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN COMERCIO INTERNACIONAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "INTRODUCCIÓN A LOS NEGOCIOS INTERNACIONALES",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MARKETING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD I",
+                        "COMERCIO INTERNACIONAL I",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "ESCRITURA Y ORALIDAD",
+                        "GEOGRAFÍA ECONÓMICA MUNDIAL Y ARGENTINA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "LOGÍSTICA INTERNACIONAL I",
+                        "COMERCIO INTERNACIONAL II",
+                        "MICROECONOMÍA",
+                        "OBLIGACIONES Y CONTRATOS",
+                        "INVESTIGACIÓN EN MERCADOS INTERNACIONALES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPERATIVA DEL COMERCIO INTERNACIONAL I",
+                        "LOGÍSTICA INTERNACIONAL II",
+                        "MACROECONOMÍA",
+                        "OPERATIVA ADUANERA",
+                        "CONTABILIDAD GERENCIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPERATIVA DEL COMERCIO INTERNACIONAL II",
+                        "SISTEMAS DE COSTOS",
+                        "DERECHO INTERNACIONAL",
+                        "CLASIFICACIÓN ARANCELARIA",
+                        "MARKETING INTERNACIONAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (3 MATERIAS)",
+                        "ECONOMÍA INTERNACIONAL",
+                        "MATEMÁTICA FINANCIERA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (1 MATERIA)",
+                        "INTEGRACIÓN Y COOPERACIÓN ECONÓMICA",
+                        "DIRECCIÓN ESTRATÉGICA INTERNACIONAL",
+                        "INTERNACIONALIZACIÓN DE SERVICIOS",
+                        "FINANZAS CORPORATIVAS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "NUEVAS TENDENCIAS EN NEGOCIOS INTERNACIONALES",
+                        "ANÁLISIS ESTRATÉGICO DE DATOS",
+                        "SISTEMAS DE GESTIÓN DE COMERCIO EXTERIOR",
+                        "CONSULTORÍA",
+                        "TRABAJO INTEGRADOR FINAL EN COMERCIO INTERNACIONAL",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

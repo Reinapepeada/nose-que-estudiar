@@ -1,0 +1,101 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO GRÁFICO",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROBLEMÁTICAS DEL DISEÑO",
+                        "TIPOGRAFÍA I",
+                        "MORFOLOGÍA I ",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "HISTORIA DEL DISEÑO GRÁFICO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO I",
+                        "DISEÑO DE INTERACCIÓN",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "LABORATORIO DE TÉCNICAS VISUALES",
+                        "FOTOGRAFÍA DIGITAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PUBLICACIÓN EDITORIAL",
+                        "TIPOGRAFÍA II",
+                        "MORFOLOGÍA II",
+                        "ILUSTRACIÓN DIGITAL",
+                        "LABORATORIO DE TÉCNICAS DIGITALES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO II",
+                        "TECNOLOGÍA GRÁFICA",
+                        "CONTENIDOS AUDIOVISUALES",
+                        "ANIMACIÓN 2D",
+                        "INTRODUCCIÓN AL MARKETING"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EDITORIAL",
+                        "DISEÑO DE LA INFORMACIÓN VISUAL",
+                        "MODELADO 3D",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO III",
+                        "ANIMACIÓN GRÁFICA",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EMPRENDEDOR DE DISEÑO",
+                        "DISEÑO DE PORFOLIO",
+                        "DISEÑO ARQUIGRÁFICO",
+                        "DISEÑO Y PENSAMIENTO COMPLEJO",
+                        "SEMINARIO: TÓPICOS DE AVANZADA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL DE DISEÑO GRÁFICO",
+                        "DISEÑO SOCIAL",
+                        "DISEÑO DE PRODUCTOS Y ENVASES",
+                        "PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO"
+                    ]
+                }
+            ]
+        }
+    ]
+}

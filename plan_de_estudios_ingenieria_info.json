@@ -1,0 +1,129 @@
+[
+    {
+        "Año": "Primer Año",
+        "Cuatrimestres": [
+            {
+                "Cuatrimestre": "Primer Cuatrimestre",
+                "Materias": [
+                    "FUNDAMENTOS DE INFORMÁTICA",
+                    "SISTEMAS DE INFORMACIÓN I",
+                    "PENSAMIENTO CRÍTICO Y COMUNICACIÓN",
+                    "TEORÍA DE SISTEMAS",
+                    "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA"
+                ]
+            },
+            {
+                "Cuatrimestre": "Segundo Cuatrimestre",
+                "Materias": [
+                    "PROGRAMACIÓN I",
+                    "SISTEMAS DE REPRESENTACIÓN",
+                    "FUNDAMENTOS DE QUÍMICA",
+                    "ARQUITECTURA DE COMPUTADORES",
+                    "MATEMÁTICA DISCRETA",
+                    "ÁLGEBRA"
+                ]
+            }
+        ]
+    },
+    {
+        "Año": "Segundo Año",
+        "Cuatrimestres": [
+            {
+                "Cuatrimestre": "Primer Cuatrimestre",
+                "Materias": [
+                    "PROGRAMACIÓN II",
+                    "SISTEMAS DE INFORMACIÓN II",
+                    "SISTEMAS OPERATIVOS",
+                    "FÍSICA I",
+                    "CÁLCULO I"
+                ]
+            },
+            {
+                "Cuatrimestre": "Segundo Cuatrimestre",
+                "Materias": [
+                    "PROGRAMACIÓN III",
+                    "PARADIGMA ORIENTADO A OBJETOS",
+                    "FUNDAMENTOS DE TELECOMUNICACIONES",
+                    "INGENIERÍA DE DATOS I",
+                    "CÁLCULO II"
+                ]
+            }
+        ]
+    },
+    {
+        "Año": "Tercer Año",
+        "Cuatrimestres": [
+            {
+                "Cuatrimestre": "Primer Cuatrimestre",
+                "Materias": [
+                    "PROCESO DE DESARROLLO DE SOFTWARE",
+                    "SEMINARIO DE INTEGRACIÓN PROFESIONAL",
+                    "TELEINFORMÁTICA Y REDES",
+                    "INGENIERÍA DE DATOS II",
+                    "PROBABILIDAD Y ESTADÍSTICA",
+                    "EXAMEN DE INGLÉS"
+                ]
+            },
+            {
+                "Cuatrimestre": "Segundo Cuatrimestre",
+                "Materias": [
+                    "APLICACIONES INTERACTIVAS",
+                    "INGENIERÍA DE SOFTWARE",
+                    "FÍSICA II",
+                    "TEORÍA DE LA COMPUTACIÓN",
+                    "ESTADÍSTICA AVANZADA"
+                ]
+            }
+        ]
+    },
+    {
+        "Año": "Cuarto Año",
+        "Cuatrimestres": [
+            {
+                "Cuatrimestre": "Primer Cuatrimestre",
+                "Materias": [
+                    "DESARROLLO DE APLICACIONES I",
+                    "DIRECCIÓN DE PROYECTOS INFORMÁTICOS",
+                    "CIENCIA DE DATOS",
+                    "SEGURIDAD E INTEGRIDAD DE LA INFORMACIÓN",
+                    "MODELADO Y SIMULACIÓN"
+                ]
+            },
+            {
+                "Cuatrimestre": "Segundo Cuatrimestre",
+                "Materias": [
+                    "DESARROLLO DE APLICACIONES II",
+                    "EVALUACIÓN DE PROYECTOS INFORMÁTICOS",
+                    "INTELIGENCIA ARTIFICIAL",
+                    "TECNOLOGÍA Y MEDIO AMBIENTE",
+                    "PRÁCTICA PROFESIONAL SUPERVISADA",
+                    "OPTATIVA (1 MATERIA)"
+                ]
+            }
+        ]
+    },
+    {
+        "Año": "Quinto Año",
+        "Cuatrimestres": [
+            {
+                "Cuatrimestre": "Primer Cuatrimestre",
+                "Materias": [
+                    "ARQUITECTURA DE APLICACIONES",
+                    "TENDENCIAS TECNOLÓGICAS",
+                    "PROYECTO FINAL DE INGENIERÍA EN INFORMÁTICA",
+                    "CALIDAD DE SOFTWARE",
+                    "OPTATIVA (1 MATERIA)"
+                ]
+            },
+            {
+                "Cuatrimestre": "Segundo Cuatrimestre",
+                "Materias": [
+                    "NEGOCIOS TECNOLÓGICOS",
+                    "TECNOLOGÍA E INNOVACIÓN",
+                    "DERECHO INFORMÁTICO",
+                    "OPTATIVA (1 MATERIA)"
+                ]
+            }
+        ]
+    }
+]

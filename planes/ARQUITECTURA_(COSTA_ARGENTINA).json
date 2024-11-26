@@ -1,0 +1,129 @@
+{
+    "Carrera": "ARQUITECTURA (COSTA ARGENTINA)",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ARQUITECTURA",
+                        "MODELADO Y REPRESENTACIÓN",
+                        "FÍSICA APLICADA",
+                        "PENSAMIENTO MATEMÁTICO I",
+                        "HISTORIA DE LA ARQUITECTURA I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO I",
+                        "URBANISMO",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL",
+                        "PENSAMIENTO MATEMÁTICO II",
+                        "DISEÑO ESTRUCTURAL I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO II",
+                        "PROYECTO URBANO I",
+                        "TECNOLOGÍA CONSTRUCTIVA I",
+                        "GESTIÓN SOSTENIBLE",
+                        "HISTORIA DE LA ARQUITECTURA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO III",
+                        "DISEÑO DEL PAISAJE",
+                        "LABORATORIO DE FORMAS I",
+                        "INSTALACIONES I",
+                        "DISEÑO ESTRUCTURAL II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO IV",
+                        "PROYECTO URBANO II",
+                        "TECNOLOGÍA CONSTRUCTIVA II",
+                        "GERENCIAMIENTO, DIRECCIÓN Y PRÁCTICA DE OBRA I",
+                        "HISTORIA DE LA ARQUITECTURA III"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO V",
+                        "CIUDAD, SOCIEDAD Y TERRITORIO",
+                        "LABORATORIO DE FORMAS II",
+                        "INSTALACIONES II",
+                        "DISEÑO ESTRUCTURAL III"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO VI",
+                        "PROYECTO URBANO III",
+                        "TECNOLOGÍA CONSTRUCTIVA III",
+                        "GERENCIAMIENTO, DIRECCIÓN Y PRÁCTICA DE OBRA II",
+                        "TEORÍA Y CRÍTICA DE LA ARQUITECTURA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO ARQUITECTÓNICO VII",
+                        "PLANEAMIENTO URBANO",
+                        "LABORATORIO DE FORMAS III",
+                        "INSTALACIONES III",
+                        "DISEÑO ESTRUCTURAL IV"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROGRAMACIÓN E INVESTIGACIÓN DEL PROYECTO",
+                        "ESTRATEGIA Y COMUNICACIÓN DEL PROYECTO",
+                        "GESTIÓN Y PRÁCTICA PROFESIONAL",
+                        "ORGANIZACIÓN JURÍDICA APLICADA AL PROYECTO",
+                        "PATRIMONIO Y CIUDAD"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "EVALUACIÓN Y FACTIBILIDAD DEL PROYECTO",
+                        "LOGÍSTICA DE LA CONSTRUCCIÓN",
+                        "TRABAJO DE INTEGRACIÓN FINAL",
+                        "PRÁCTICA PROFESIONAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

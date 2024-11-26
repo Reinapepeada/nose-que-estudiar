@@ -1,0 +1,106 @@
+{
+    "Carrera": "LICENCIATURA EN FINANZAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ECONOMÍA",
+                        "MATEMÁTICA I",
+                        "CONTABILIDAD I",
+                        "INTRODUCCIÓN A LAS FINANZAS",
+                        "ADMINISTRACIÓN EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FILOSOFÍA Y ÉTICA",
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "ESTADÍSTICA I",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "SISTEMA FINANCIERO INTERNACIONAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MATEMÁTICA II",
+                        "ESTADÍSTICA II",
+                        "CÁLCULO FINANCIERO",
+                        "MICROECONOMÍA PARA ECONOMISTAS",
+                        "MEDICIÓN Y PRESENTACIÓN DE ESTADOS FINANCIEROS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MACROECONOMÍA PARA ECONOMISTAS",
+                        "SISTEMA FINANCIERO DOMÉSTICO",
+                        "MATEMÁTICA III",
+                        "CONTABILIDAD GERENCIAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS CORPORATIVAS I",
+                        "ECONOMETRÍA",
+                        "TEORÍA DE CARTERAS",
+                        "INSTRUMENTOS DE RENTA FIJA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "VALUACIÓN POR ARBITRAJE",
+                        "EVALUACIÓN DE RIESGO CREDITICIO",
+                        "FINANZAS INTERNACIONALES",
+                        "FINANZAS CORPORATIVAS II",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMETRÍA APLICADA",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS",
+                        "VALUACIÓN DE EMPRESAS",
+                        "ADMINISTRACIÓN DE PORTAFOLIOS DE INVERSIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "NUEVAS TENDENCIAS EN FINANZAS",
+                        "PROGRAMACIÓN EN FINANZAS",
+                        "ADMINISTRACIÓN DE RIESGOS FINANCIEROS",
+                        "FUSIONES, ADQUISICIONES Y REESTRUCTURACIONES",
+                        "TRABAJO INTEGRADOR FINAL EN FINANZAS",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

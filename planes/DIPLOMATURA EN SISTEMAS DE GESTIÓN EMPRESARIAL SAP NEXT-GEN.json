@@ -1,0 +1,22 @@
+{
+    "Carrera": "DIPLOMATURA EN SISTEMAS DE GESTIÓN EMPRESARIAL SAP NEXT-GEN",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE COMPRAS VENTAS Y FINANZAS "
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE PRODUCCIÓN, ACTIVOS, PROYECTOS Y CAPITAL HUMANO "
+                    ]
+                }
+            ]
+        }
+    ]
+}

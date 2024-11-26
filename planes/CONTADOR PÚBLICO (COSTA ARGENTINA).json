@@ -1,0 +1,105 @@
+{
+    "Carrera": "CONTADOR PÚBLICO (COSTA ARGENTINA)",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "INTRODUCCIÓN A LA CONTABILIDAD",
+                        "INTRODUCCIÓN AL DERECHO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "MARKETING",
+                        "INTRODUCCIÓN AL RÉGIMEN IMPOSITIVO",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "OBLIGACIONES Y CONTRATOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "MICROECONOMÍA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "SISTEMA DE COSTOS",
+                        "DERECHO SOCIETARIO",
+                        "ESTADOS CONTABLES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL Y CONTROL PRESUPUESTARIO",
+                        "IMPUESTOS A LA RENTA Y PATRIMONIO",
+                        "MACROECONOMÍA",
+                        "RÉGIMEN DEL TRABAJO Y DE LA SEGURIDAD SOCIAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÍTULOS VALORES Y CONCURSOS",
+                        "TÓPICOS CONTABLES AVANZADOS",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "TALLER DE PRÁCTICA DE INTEGRACIÓN",
+                        "PRÁCTICA PROFESIONAL JURÍDICO-CONTABLE"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS A LOS CONSUMOS Y A LAS TRANSACCIONES",
+                        "FINANZAS CORPORATIVAS I",
+                        "SEMINARIO DE INCUMBENCIAS PROFESIONALES",
+                        "GESTIÓN Y COSTOS",
+                        "AUDITORÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD INTERNACIONAL",
+                        "PROCEDIMIENTO TRIBUTARIO Y AUDITORÍA FISCAL",
+                        "GESTIÓN DE IT",
+                        "PRÁCTICA PROFESIONAL SUPERVISADA",
+                        "SEMINARIO DE INTEGRACIÓN FINAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

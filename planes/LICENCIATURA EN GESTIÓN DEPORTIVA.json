@@ -1,0 +1,106 @@
+{
+    "Carrera": "LICENCIATURA EN GESTIÓN DEPORTIVA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE ORGANIZACIONES DEPORTIVAS",
+                        "INTRODUCCIÓN AL DEPORTE Y AL MOVIMIENTO OLÍMPICO",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "DEPORTES POR EQUIPO I",
+                        "INTRODUCCIÓN A LA PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "RELACIONES PÚBLICAS EN EL DEPORTE",
+                        "GESTIÓN CONTABLE DE PROYECTO DE ENTRETENIMIENTO Y DEPORTE",
+                        "MEDIOS DE COMUNICACIÓN EN EL DEPORTE",
+                        "DEPORTES INDIVIDUALES I",
+                        "PRÁCTICA EN EVENTOS DEPORTIVOS I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PROGRAMACIÓN",
+                        "PRÁCTICA EN EVENTOS DEPORTIVOS II",
+                        "MARKETING GLOBAL",
+                        "DEPORTES POR EQUIPO II",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: NORMAS Y RIESGOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COSTOS PARA LA TOMA DE DECISIONES",
+                        "GERENCIAMIENTO DE PROYECTOS",
+                        "CAMPAÑAS APLICADAS A LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "DEPORTES INDIVIDUALES II",
+                        "SOCIOLOGÍA DEL OCIO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MARCO REGULATORIO Y POLÍTICAS DEL DEPORTE",
+                        "ECONOMÍA DEL DEPORTE",
+                        "MARKETING DEPORTIVO",
+                        "INFRAESTRUCTURA Y ESPACIOS DEPORTIVOS",
+                        "MANAGEMENT DE DEPORTES ELECTRÓNICOS Y GAMING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN DE OPERACIONES EN INSTITUCIONES DEPORTIVAS",
+                        "RÉGIMEN IMPOSITIVO DE INSTITUCIONES DEPORTIVAS",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "PRÁCTICA EN EVENTOS DEPORTIVOS III",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN ESTRATÉGICA Y DE RECURSOS",
+                        "NEGOCIACIÓN Y MANAGEMENT DE DEPORTISTAS",
+                        "PRÁCTICA EN EVENTOS DEPORTIVOS IV",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA EN EL DEPORTE",
+                        "SALUD EN EL DEPORTE"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PITCHING Y STORYTELLING ",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "FINANZAS APLICADAS AL DEPORTE",
+                        "GESTIÓN Y ORGANIZACIÓN DE EVENTOS: GIRAS Y MEGA EVENTOS DEPORTIVOS",
+                        "PRÁCTICA PROFESIONAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

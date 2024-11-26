@@ -1,0 +1,25 @@
+{
+    "Carrera": "DIPLOMATURA UNIVERSITARIA EN ADMINISTRACIÓN DE INVERSIONES FINANCIERAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "HERRAMIENTAS CUANTITATIVAS PARA FINANZAS",
+                        "INTRODUCCIÓN AL MERCADO DE CAPITALES",
+                        "TALLER DE PRÁCTICA BLOOMBERG I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ANÁLISIS DE CARTERAS DE INVERSIÓN",
+                        "TALLER DE PRÁCTICA BLOOMBERG II"
+                    ]
+                }
+            ]
+        }
+    ]
+}

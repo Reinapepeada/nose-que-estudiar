@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO DE INTERIORES",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FUNDAMENTOS DE LA PRÁCTICA PROYECTUAL",
+                        "LABORATORIO DE MATERIALES",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "MODELADO Y REPRESENTACIÓN",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO Y FUNCIÓN",
+                        "REPRESENTACIÓN TÉCNICA",
+                        "FORMAS Y ESPACIO TRIDIMENSIONAL",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "MODELOS Y MAQUETAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO RESIDENCIAL",
+                        "LABORATORIO DE MATERIALES APLICADOS",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL",
+                        "DISEÑO Y ERGONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO COMERCIAL",
+                        "INSTALACIONES",
+                        "LABORATORIO DE FORMAS BÁSICAS",
+                        "DISEÑO DE OBJETOS",
+                        "HISTORIA DEL DISEÑO DE ESPACIOS Y OBJETOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO GASTRONÓMICO",
+                        "LUMINOTECNIA Y DOMÓTICA",
+                        "MOBILIARIO Y ESTILO",
+                        "INNOVACIÓN Y DISEÑO 3 D",
+                        "INGLÉS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO CORPORATIVO",
+                        "DIRECCIÓN Y PRÁCTICA DE OBRA",
+                        "LABORATORIO DE FORMAS APLICADAS",
+                        "DISEÑO DE PAISAJE",
+                        "GESTIÓN DE EMPRESAS DE DISEÑO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERIORES: ESPACIO Y CONCRECIÓN",
+                        "DISEÑO SUSTENTABLE",
+                        "MOBILIARIO Y TECNOLOGÍA",
+                        "TENDENCIAS Y TECNOLOGÍAS EMERGENTES",
+                        "PLAN DE NEGOCIOS DE DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO FINAL DE DISEÑO DE INTERIORES",
+                        "TEORÍA, HISTORIA Y CRÍTICA DEL DISEÑO",
+                        "ÉTICA DEONTOLÓGICA Y PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "Carrera": "LICENCIATURA EN CIENCIAS DE LA COMUNICACIÓN",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FILOSOFÍA",
+                        "HISTORIA UNIVERSAL CONTEMPORÁNEA",
+                        "TALLER DE EXPRESIÓN ESCRITA",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+                        "PERIODISMO I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA PRODUCCIÓN AUDIOVISUAL",
+                        "TALLER DE NARRATIVAS DIGITALES",
+                        "SOCIOLOGÍA",
+                        "TEORÍA DE LA COMUNICACIÓN",
+                        "TALLER DE EXPRESIÓN ORAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PERIODISMO II",
+                        "HISTORIA ARGENTINA CONTEMPORÁNEA",
+                        "PSICOLOGÍA DE LAS REDES",
+                        "GÉNEROS Y FORMATOS NARRATIVOS",
+                        "ANÁLISIS Y DESARROLLO DE AUDIENCIAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL I: SONIDO",
+                        "HISTORIA DE LA COMUNICACIÓN",
+                        "SEMIÓTICA",
+                        "DISEÑO DE LA INFORMACIÓN PARA LA COMUNICACIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPINIÓN PÚBLICA",
+                        "INVESTIGACIÓN PERIODÍSTICA",
+                        "TALLER DE NARRATIVAS DE NO FICCIÓN",
+                        "ECONOMÍA E INFORMACIÓN ECONÓMICA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COMUNICACIÓN CORPORATIVA Y ASUNTOS PÚBLICOS",
+                        "ANÁLISIS DEL DISCURSO",
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL II: VIDEO",
+                        "CONTENIDOS CULTURALES ",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "METODOLOGÍA DE LA INVESTIGACIÓN",
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL III: TRANSMEDIA",
+                        "EMPRENDIMIENTOS DE EMPRESAS DE CONTENIDOS",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA I",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COMUNICACIÓN POLÍTICA Y CAMPAÑAS ELECTORALES",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA II",
+                        "MARCO REGULATORIO DE LA INFORMACIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

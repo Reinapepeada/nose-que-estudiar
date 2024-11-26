@@ -1,0 +1,55 @@
+{
+    "Carrera": "LICENCIATURA EN CIENCIAS DE LA COMUNICACIÓN (CICLO DE LICENCIATURA)",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE NARRATIVAS DIGITALES",
+                        "CONTENIDOS CULTURALES",
+                        "COMUNICACIÓN POLÍTICA Y CAMPAÑAS ELECTORALES",
+                        "TEORÍA DE LA COMUNICACIÓN",
+                        "PSICOLOGÍA DE LAS REDES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "SEMIÓTICA",
+                        "ANÁLISIS Y DESARROLLO DE AUDIENCIAS",
+                        "PLATAFORMAS MEDIÁTICAS",
+                        "ECONOMÍA E INFORMACIÓN ECONÓMICA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ANÁLISIS DEL DISCURSO",
+                        "HISTORIA DE LA COMUNICACIÓN",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN",
+                        "EMPRENDIMIENTOS DE EMPRESAS DE CONTENIDOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE NARRATIVAS DE NO FICCIÓN",
+                        "COMUNICACIÓN CORPORATIVA Y ASUNTOS PÚBLICOS",
+                        "MARCO REGULATORIO DE LA INFORMACIÓN",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

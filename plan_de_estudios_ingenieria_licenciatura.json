@@ -1,0 +1,106 @@
+{
+    "Carrera": "LICENCIATURA EN GESTIÓN DE TECNOLOGÍA DE LA INFORMACIÓN",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ALGORITMIA",
+                        "SISTEMAS DE INFORMACIÓN I",
+                        "ARQUITECTURA DE COMPUTADORES",
+                        "MARKETING",
+                        "DISEÑO Y DESARROLLO WEB"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ALGORITMOS Y ESTRUCTURAS DE DATOS I",
+                        "SISTEMAS DE INFORMACIÓN II",
+                        "SISTEMAS OPERATIVOS",
+                        "MATEMÁTICA DISCRETA",
+                        "TESTING DE APLICACIONES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+                        "PARADIGMA ORIENTADO A OBJETOS",
+                        "REDES DE DATOS",
+                        "FUNDAMENTOS DE ECONOMÍA",
+                        "GESTIÓN DE PERSONAS EN ORGANIZACIONES DE TECNOLOGÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y ANÁLISIS DE ALGORITMOS",
+                        "DIRECCIÓN DE PROYECTOS DE TECNOLOGÍA",
+                        "INGENIERÍA DE DATOS I",
+                        "INGENIERÍA DE SOFTWARE",
+                        "LIDERAZGO Y NEGOCIACIÓN"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "APLICACIONES INTERACTIVAS",
+                        "PROCESO DE DESARROLLO DE SOFTWARE",
+                        "SEGURIDAD E INTEGRIDAD DE LA INFORMACIÓN",
+                        "PROBABILIDAD Y ESTADÍSTICA",
+                        "EXAMEN DE INGLÉS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "SEMINARIO DE GESTIÓN DE TECNOLOGÍA",
+                        "INGENIERÍA DE DATOS II",
+                        "EVALUACIÓN DE PROYECTOS DE TECNOLOGÍA",
+                        "ESTADÍSTICA AVANZADA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO DE APLICACIONES I",
+                        "SEGURIDAD DE PROCESOS Y APLICACIONES",
+                        "CIENCIA DE DATOS",
+                        "TENDENCIAS TECNOLÓGICAS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO DE APLICACIONES II",
+                        "TECNOLOGÍA E INNOVACIÓN",
+                        "NEGOCIOS TECNOLÓGICOS",
+                        "DERECHO INFORMÁTICO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

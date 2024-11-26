@@ -1,0 +1,103 @@
+{
+    "Carrera": "LICENCIATURA EN COMUNICACIÓN GLOBAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "LENGUAJE, LÓGICA Y ARGUMENTACIÓN",
+                        "CONTEXTO DE LOS NEGOCIOS INTERNACIONALES",
+                        "ELEMENTOS DE PSICOLOGÍA",
+                        "GESTIÓN DE EMPRESAS",
+                        "INTRODUCCIÓN A LA COMUNICACIÓN ESTRATÉGICA GLOBAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE REDACCIÓN",
+                        "TEORÍA DE LAS RELACIONES PÚBLICAS",
+                        "ELEMENTOS DE SOCIOLOGÍA",
+                        "CULTURAS Y SOCIEDADES CONTEMPORÁNEAS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ELEMENTOS DE ECONOMÍA Y FINANZAS",
+                        "ORATORIA Y DEBATE",
+                        "MEDIOS GRÁFICOS Y AUDIOVISUALES",
+                        "RELACIONES PÚBLICAS I",
+                        "TEORÍA DE LA COMUNICACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MEDIOS DIGITALES",
+                        "MARKETING",
+                        "GESTIÓN GLOBAL DEL TALENTO HUMANO",
+                        "PUBLICIDAD",
+                        "RELACIONES PÚBLICAS II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ESTADÍSTICA",
+                        "MEDIOS Y OPINIÓN PÚBLICA",
+                        "CEREMONIAL Y PROTOCOLO",
+                        "LIDERAZGO Y NEGOCIACIÓN INTERNACIONAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN INTEGRAL DE EVENTOS CORPORATIVOS",
+                        "HISTORIA ECONÓMICA INTERNACIONAL",
+                        "SEMIÓTICA",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN EN COMUNICACIÓN",
+                        "RELACIONES PÚBLICAS III"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE AUDITORÍA DE IMAGEN",
+                        "DIRECCIÓN ESTRATÉGICA DE LA COMUNICACIÓN GLOBAL",
+                        "OPTATIVA (3 MATERIAS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE LAS COMUNICACIONES DIGITALES",
+                        "POLÍTICA CONTEMPORÁNEA",
+                        "TRABAJO FINAL EN COMUNICACIÓN GLOBAL",
+                        "OPTATIVA (1 MATERIA)",
+                        "GESTION DE LA RESPONSABILIDAD SOCIAL EMPRESARIA"
+                    ]
+                }
+            ]
+        }
+    ]
+}

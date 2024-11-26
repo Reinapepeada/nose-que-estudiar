@@ -1,0 +1,102 @@
+{
+    "Carrera": "LICENCIATURA EN NEGOCIOS DIGITALES",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "TALLER DE DISEÑO DIGITAL ",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MATEMÁTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "CONTABILIDAD I",
+                        "PLATAFORMAS Y NEGOCIOS WEB",
+                        "TALLER DE PROGRAMACIÓN I "
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "MICROECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "COMUNICACIÓN MULTIMEDIAL",
+                        "OBLIGACIONES Y CONTRATOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "DISEÑO Y DESARROLLO UX ",
+                        "INTELIGENCIA DE NEGOCIOS Y ANALÍTICA DIGITAL",
+                        "TALLER DE PROGRAMACIÓN II "
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "GESTIÓN DE PRODUCTOS DIGITALES ",
+                        "ESTRATEGIAS DE PRECIOS",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "LOGÍSTICA APLICADA A NEGOCIOS  DIGITALES",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS CORPORATIVAS I",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "CIENCIA DE DATOS PARA NEGOCIOS ",
+                        "CONSULTORÍA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO EMPRESARIAL",
+                        "TÓPICOS AVANZADOS EN NEGOCIOS DIGITALES",
+                        "TRABAJO INTEGRADOR FINAL EN NEGOCIOS DIGITALES ",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

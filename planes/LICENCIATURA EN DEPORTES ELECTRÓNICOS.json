@@ -1,0 +1,102 @@
+{
+    "Carrera": "LICENCIATURA EN DEPORTES ELECTRÓNICOS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL ECOSISTEMA DE LOS ESPORTS",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+                        "RECURSOS TÉCNICOS PARA LOS MEDIOS AUDIOVISUALES",
+                        "MARKETING DEL ENTRETENIMIENTO",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: MOBA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONVERGENCIA Y PARADIGMAS TECNOLÓGICOS",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: BAJA COMPLEJIDAD",
+                        "TALLER DE NARRATIVAS DIGITALES",
+                        "GESTIÓN CONTABLE PARA LA EMPRESA DE ENTRETENIMIENTO",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: FPS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "RECURSOS TÉCNICOS PARA LOS ESPECTÁCULOS EN VIVO",
+                        "DISEÑO, ANÁLISIS Y CONSTRUCCIÓN DE EQUIPOS DE ALTA COMPETENCIA",
+                        "TALLER DE RELATO DEPORTIVO: CASTERS Y ANFITRIONES",
+                        "ESTRUCTURA ECONÓMICA DE LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: JUEGOS DE ESTRATEGIA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: MEDIANA COMPLEJIDAD",
+                        "ESTRUCTURAS NARRATIVAS, FORMATOS Y GUION ",
+                        "TALLER DE PROGRAMACIÓN",
+                        "PSICOLOGÍA DE LAS REDES",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: SIMULADORES DEPORTIVOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL: STREAMING",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: ALTA COMPLEJIDAD",
+                        "CULTURAS LÚDICAS",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: BATTLE ROYALE",
+                        "MANAGEMENT DE PLATAFORMAS DE ENTRETENIMIENTO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ANÁLISIS Y DESARROLLO DE AUDIENCIAS",
+                        "LABORATORIO DE ENTRETENIMIENTO INMERSIVO Y AUMENTADO",
+                        "GERENCIAMIENTO DE PROYECTOS",
+                        "PRÁCTICA Y ENTRENAMIENTO DE ALTA COMPETENCIA EN ESPORTS: JUEGOS DE COMBATE Y NUEVOS GÉNEROS "
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CAMPAÑAS APLICADAS A LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "REPRESENTACIÓN Y MANAGEMENT DE TALENTOS",
+                        "PRÁCTICA EN ORGANIZACIÓN DE EVENTOS DEPORTIVOS: ESPORTS",
+                        "EMPRENDIMIENTOS DE EMPRESAS DE ESPORTS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARCO JURÍDICO DEL ENTRETENIMIENTO",
+                        "TALLER DE PITCHING Y STORYTELLING ",
+                        "FINANZAS APLICADAS A LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "TRABAJO INTEGRADOR FINAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

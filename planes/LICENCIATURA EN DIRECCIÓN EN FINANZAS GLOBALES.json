@@ -1,0 +1,100 @@
+{
+    "Carrera": "LICENCIATURA EN DIRECCIÓN EN FINANZAS GLOBALES",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN EMPRESARIAL",
+                        "CONTEXTO DE LOS NEGOCIOS INTERNACIONALES",
+                        "CONTABILIDAD GERENCIAL I",
+                        "CULTURAS Y SOCIEDADES CONTEMPORÁNEAS",
+                        "MATEMÁTICA APLICADA A LOS NEGOCIOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN DE NEGOCIOS",
+                        "FINANZAS Y EMPRESA",
+                        "ESTADÍSTICA APLICADA A LOS NEGOCIOS",
+                        "MARKETING",
+                        "DERECHO EMPRESARIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL II",
+                        "MICROECONOMÍA",
+                        "MERCADOS FINANCIEROS",
+                        "MATEMÁTICA FINANCIERA APLICADA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PLANIFICACIÓN FISCAL INTERNACIONAL",
+                        "MACROECONOMÍA",
+                        "INSTITUCIONES DEL MERCADO FINANCIERO",
+                        "HISTORIA ECONÓMICA INTERNACIONAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS CORPORATIVAS",
+                        "DERECHO DE LOS NEGOCIOS Y FINANZAS INTERNACIONALES",
+                        "ANÁLISIS Y CONTROL DE GESTIÓN",
+                        "COSTOS PARA LA TOMA DE DECISIONES",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (5 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PLAN DE NEGOCIOS INTERNACIONALES",
+                        "ECONOMÍA INTERNACIONAL",
+                        "VALUACIÓN DE EMPRESAS",
+                        "ANALÍTICA Y GESTIÓN DIGITAL DE NEGOCIOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FUSIONES Y ADQUISICIONES INTERNACIONALES",
+                        "TÓPICOS DE AVANZADA EN FINANZAS",
+                        "TRABAJO INTEGRADOR FINAL EN DIRECCIÓN EN FINANZAS GLOBALES",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

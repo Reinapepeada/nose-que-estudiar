@@ -1,0 +1,137 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN MARKETING Y ADMINISTRACIÓN DE EMPRESAS ",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MATEMÁTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "CONTABILIDAD I",
+                        "ESCRITURA Y ORALIDAD",
+                        "HISTORIA ECONÓMICA MUNDIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "COMPORTAMIENTO DE COMPRA Y CONSUMO",
+                        "INTRODUCCIÓN A LA ECONOMÍA",
+                        "INVESTIGACIÓN DE MERCADOS",
+                        "PUBLICIDAD Y PROMOCIÓN",
+                        "MATEMÁTICA EMPRESARIAL II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL",
+                        "COMUNICACIÓN MULTIMEDIAL",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "LOGÍSTICA Y DISTRIBUCIÓN",
+                        "PLATAFORMAS Y NEGOCIOS WEB"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OBLIGACIONES, CONTRATOS Y SOCIEDADES",
+                        "DESARROLLO E INNOVACIÓN EN PRODUCTOS",
+                        "ANÁLISIS DE DATOS DE MERCADO",
+                        "SISTEMAS DE COSTOS",
+                        "CÁLCULO FINANCIERO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARKETING ESTRATÉGICO",
+                        "INTELIGENCIA DE NEGOCIOS Y ANALÍTICA DIGITAL",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "MICROECONOMÍA",
+                        "PROGRAMACIÓN OPERATIVA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN ESTRATÉGICA DE VENTAS",
+                        "FINANZAS CORPORATIVAS I",
+                        "ESTRATEGIAS DE PRECIOS",
+                        "DESARROLLO INTERNACIONAL DE NEGOCIOS",
+                        "ANÁLISIS Y TOMA DE DECISIONES EN MARKETING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DERECHO DEL TRABAJO INDIVIDUAL",
+                        "ESTRATEGIA DE SERVICIOS",
+                        "CONSULTORÍA",
+                        "CONSTRUCCIÓN Y GESTIÓN DE MARCAS",
+                        "TRABAJO INTEGRADOR FINAL EN MARKETING",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MACROECONOMÍA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "GERENCIA DE OPERACIONES",
+                        "CONTROL DE GESTIÓN",
+                        "IMPUESTOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "NUEVAS TENDENCIAS EN ADMINISTRACIÓN",
+                        "ANÁLISIS ESTRATÉGICO DE DATOS",
+                        "DESARROLLO EMPRESARIAL",
+                        "SIMULACIONES Y TOMA DE DECISIONES EN NEGOCIOS",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ADMINISTRACIÓN"
+                    ]
+                }
+            ]
+        }
+    ]
+}

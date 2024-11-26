@@ -1,0 +1,106 @@
+{
+    "Carrera": "LICENCIATURA EN GESTIÓN DE MEDIOS Y ENTRETENIMIENTO",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "RECURSOS TÉCNICOS PARA LOS MEDIOS AUDIOVISUALES",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+                        "ESTRUCTURAS NARRATIVAS, FORMATOS Y GUION ",
+                        "TALLER DE GESTIÓN Y PRODUCCIÓN DE TEATRO",
+                        "EMPRESAS DE ENTRETENIMIENTO Y CULTURA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "RECURSOS TÉCNICOS PARA LOS ESPECTÁCULOS EN VIVO",
+                        "INTRODUCCIÓN A LA PRODUCCIÓN AUDIOVISUAL: VIDEO, SONIDO Y TRANSMEDIA",
+                        "CONVERGENCIA Y PARADIGMAS TECNOLÓGICOS",
+                        "INTRODUCCIÓN A LA PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS",
+                        "GESTIÓN CONTABLE DE PROYECTOS DE ENTRETENIMIENTO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL: GÉNEROS INFORMATIVOS",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: NORMAS Y RIESGOS",
+                        "HISTORIA DEL ENTRETENIMIENTO",
+                        "TALLER DE PROGRAMACIÓN DE SOFTWARE DE ENTRETENIMIENTO",
+                        "MARKETING DEL ENTRETENIMIENTO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ESTRUCTURA ECONÓMICA DE LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "ARTES VISUALES Y ESCÉNICAS",
+                        "GERENCIAMIENTO DE PROYECTOS",
+                        "TALLER DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL: GÉNEROS DE ENTRETENIMIENTO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE POSPRODUCCIÓN AUDIOVISUAL: VIDEO, SONIDO Y TRANSMEDIA",
+                        "DIRECCIÓN ARTÍSTICA Y CONCEPTUALIZACIÓN ESTÉTICA",
+                        "ANÁLISIS Y DESARROLLO DE AUDIENCIAS",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS Y EVENTOS: FESTIVALES, GIRAS Y RECITALES",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TALLER DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL: GÉNEROS DE FICCIÓN",
+                        "SOCIOLOGÍA DEL OCIO",
+                        "MODELOS DE NEGOCIOS DE LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "CAMPAÑAS APLICADAS A LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "METODOLOGÍA DE LA INVESTIGACIÓN",
+                        "MANAGEMENT DE PLATAFORMAS DE ENTRETENIMIENTO",
+                        "EMPRENDIMIENTOS DE EMPRESAS DE ENTRETENIMIENTO",
+                        "TALLER DE PITCHING Y STORYTELLING ",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARCO JURÍDICO DEL ENTRETENIMIENTO",
+                        "REPRESENTACIÓN Y MANAGEMENT DE TALENTOS",
+                        "FINANZAS APLICADAS A LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "PRÁCTICA PROFESIONAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "Carrera": "LICENCIATURA EN DIRECCIÓN DE NEGOCIOS GLOBALES",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN EMPRESARIAL",
+                        "MARKETING",
+                        "CONTABILIDAD GERENCIAL I",
+                        "DERECHO EMPRESARIAL",
+                        "MATEMÁTICA APLICADA A LOS NEGOCIOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN DE NEGOCIOS",
+                        "GESTIÓN GLOBAL DEL TALENTO",
+                        "ESTADÍSTICA APLICADA A LOS NEGOCIOS",
+                        "HISTORIA ECONÓMICA INTERNACIONAL",
+                        "CULTURAS Y SOCIEDADES CONTEMPORÁNEAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN DE OPERACIONES",
+                        "CONTABILIDAD GERENCIAL II",
+                        "MICROECONOMÍA",
+                        "COMERCIO EXTERIOR",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COSTOS PARA LA TOMA DE DECISIONES",
+                        "LOGÍSTICA GLOBAL",
+                        "MATEMÁTICA FINANCIERA APLICADA",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "LIDERAZGO Y NEGOCIACIÓN INTERNACIONAL",
+                        "DERECHO DE LOS NEGOCIOS Y FINANZAS INTERNACIONALES",
+                        "PLAN DE NEGOCIOS INTERNACIONALES",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "MARKETING GLOBAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (5 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS CORPORATIVAS",
+                        "MACROECONOMÍA",
+                        "NUEVAS TENDENCIAS EN NEGOCIOS",
+                        "TECNOLOGÍAS DE LA INFORMACIÓN",
+                        "ANÁLISIS Y CONTROL DE GESTIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INNOVACIÓN EN NEGOCIOS",
+                        "ANALÍTICA Y GESTIÓN DIGITAL DE NEGOCIOS",
+                        "TRABAJO INTEGRADOR FINAL EN DIRECCIÓN DE NEGOCIOS GLOBALES",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

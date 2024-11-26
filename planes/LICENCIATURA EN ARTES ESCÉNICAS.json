@@ -1,0 +1,115 @@
+{
+    "Carrera": "LICENCIATURA EN ARTES ESCÉNICAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN I",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA I",
+                        "DANZA CLÁSICA I",
+                        "DANZA JAZZ I",
+                        "ARTES VISUALES Y ESCÉNICAS",
+                        "LENGUAJE MUSICAL PARA ACTORES I",
+                        "INTEGRACIÓN I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN II",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA II",
+                        "DANZA CLÁSICA II",
+                        "DANZA JAZZ II",
+                        "HISTORIA DEL TEATRO UNIVERSAL",
+                        "LENGUAJE MUSICAL PARA ACTORES II",
+                        "INTEGRACIÓN II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN III",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA III",
+                        "DANZA CLÁSICA III",
+                        "DANZA JAZZ III",
+                        "METODOLOGÍAS DE ANÁLISIS DE TEXTOS TEATRALES",
+                        "LENGUAJE MUSICAL PARA ACTORES III",
+                        "INTEGRACIÓN III"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN IV",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA IV",
+                        "DANZA CLÁSICA IV",
+                        "DANZA JAZZ IV",
+                        "HISTORIA DEL TEATRO Y PERSONAJES DE LA CULTURA ARGENTINA",
+                        "LENGUAJE MUSICAL PARA ACTORES IV",
+                        "INTEGRACIÓN IV"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN V",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA V",
+                        "DANZA CLÁSICA V",
+                        "DANZA CONTEMPORÁNEA I",
+                        "DISCIPLINAS CIRCENSES",
+                        "LENGUAJE MUSICAL PARA ACTORES V",
+                        "INTEGRACIÓN V"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS DE ACTUACIÓN VI",
+                        "DANZA JAZZ V",
+                        "DANZA CONTEMPORÁNEA II",
+                        "DRAMATURGIA",
+                        "DIRECCIÓN ARTÍSTICA",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA VI",
+                        "INTEGRACIÓN VI"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO FINAL EN TEATRO DE TEXTO I",
+                        "DIRECCIÓN Y PUESTA EN ESCENA",
+                        "TALLER DE PRODUCCIÓN DE ESPECTÁCULOS",
+                        "PROYECTO FINAL EN TEATRO MUSICAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO FINAL EN TEATRO DE TEXTO II",
+                        "METODOS DE ENTRENAMIENTO ACTORAL",
+                        "TÉCNICA DE LA VOZ HABLADA Y CANTADA VII",
+                        "PROYECTO FINAL EN TEATRO MUSICAL II"
+                    ]
+                }
+            ]
+        }
+    ]
+}

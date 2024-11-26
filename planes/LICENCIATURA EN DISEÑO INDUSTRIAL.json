@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO INDUSTRIAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FUNDAMENTOS DE LA PRÁCTICA PROYECTUAL",
+                        "LABORATORIO DE MATERIALES",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "MODELADO Y REPRESENTACIÓN",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: ANÁLISIS DE PRODUCTO",
+                        "REPRESENTACIÓN TÉCNICA",
+                        "FORMAS Y ESPACIO TRIDIMENSIONAL",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "MODELOS Y MAQUETAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: FORMA Y FUNCIÓN",
+                        "TECNOLOGÍA Y PRODUCCIÓN I",
+                        "LABORATORIO DE FORMAS BÁSICAS",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL",
+                        "DISEÑO Y ERGONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: CONCEPTO Y TECNOLOGÍA",
+                        "TECNOLOGÍA Y PRODUCCIÓN II",
+                        "LABORATORIO DE FORMAS AVANZADAS",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "HISTORIA DEL DISEÑO DE ESPACIOS Y OBJETOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: LÍNEA Y FAMILIA DE PRODUCTOS",
+                        "TECNOLOGÍA Y PRODUCCIÓN III",
+                        "LABORATORIO DE FORMAS ESPECIALES",
+                        "INNOVACIÓN Y DISEÑO 3 D",
+                        "INGLÉS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: PRODUCTO Y CONTEXTO",
+                        "TECNOLOGÍA Y PRODUCCIÓN IV",
+                        "VEHÍCULOS Y TRANSPORTE",
+                        "GESTIÓN DE EMPRESAS DE DISEÑO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO INDUSTRIAL: DESARROLLO INTEGRAL DEL PRODUCTO",
+                        "DISEÑO DE PORFOLIO",
+                        "LABORATORIO DE FORMAS COMPLEJAS",
+                        "TENDENCIAS Y TECNOLOGÍAS EMERGENTES",
+                        "PLAN DE NEGOCIOS DE DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO FINAL DE DISEÑO INDUSTRIAL",
+                        "TEORÍA, HISTORIA Y CRÍTICA DEL DISEÑO",
+                        "ÉTICA DEONTOLÓGICA Y PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

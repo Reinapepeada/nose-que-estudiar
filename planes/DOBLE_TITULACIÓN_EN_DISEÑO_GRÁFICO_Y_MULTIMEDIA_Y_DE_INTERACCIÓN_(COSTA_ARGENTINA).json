@@ -1,0 +1,138 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN DISEÑO GRÁFICO Y MULTIMEDIA Y DE INTERACCIÓN (COSTA ARGENTINA)",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FUNDAMENTOS DE LA PRÁCTICA PROYECTUAL",
+                        "LENGUAJE VISUAL",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "TIPOGRAFÍA I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL DISEÑO ",
+                        "DISEÑO MULTIMEDIA I",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "MORFOLOGÍA I ",
+                        "FOTOGRAFÍA I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL MARKETING"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO: SISTEMAS VISUALES",
+                        "TALLER DE LENGUAJE VISUAL I",
+                        "HISTORIA DEL DISEÑO GRÁFICO",
+                        "DISEÑO DE INTERACCIÓN I",
+                        "TIPOGRAFÍA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO: RETÓRICA DE LA IMAGEN",
+                        "TALLER DE LENGUAJE VISUAL II",
+                        "DISEÑO MULTIMEDIA II ",
+                        "DISEÑO EDITORIAL I",
+                        "MORFOLOGÍA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INGLÉS I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO, MARCA Y SISTEMAS SEÑALÉTICOS",
+                        "TALLER DE ILUSTRACIÓN Y SERIGRAFÍA",
+                        "DISEÑO CINÉTICO",
+                        "DISEÑO DE LA INFORMACIÓN VISUAL",
+                        "GESTIÓN DE EMPRESAS DE DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO MULTIMEDIA III",
+                        "TECNOLOGÍA GRÁFICA",
+                        "DISEÑO Y ANIMACIÓN 2D",
+                        "DISEÑO DE INTERACCIÓN II ",
+                        "DISEÑO EDITORIAL II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ESTÉTICA",
+                        "DISEÑO DE PORFOLIO",
+                        "DISEÑO ARQUIGRÁFICO",
+                        "DISEÑO GRÁFICO: CAMPAÑA SOCIAL",
+                        "INNOVACIÓN Y DISEÑO 3D"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO FINAL DE DISEÑO GRÁFICO",
+                        "TEORÍA, HISTORIA Y CRÍTICA DEL DISEÑO",
+                        "ÉTICA DEONTOLÓGICA Y PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO",
+                        "PLAN DE NEGOCIOS DE DISEÑO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERACCIÓN III",
+                        "REALIZACIÓN DE CINE Y TELEVISIÓN (FICCIÓN)",
+                        "DISEÑO MULTIMEDIA IV",
+                        "TEORÍA Y PRÁCTICA DEL SONIDO: EDICIÓN DE SONIDO, AUDIO DIGITAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO FINAL DE DISEÑO MULTIMEDIA Y DE INTERACCIÓN",
+                        "VIDEOJUEGOS",
+                        "POSTPRODUCCIÓN AUDIOVISUAL (CINE, TV,  MULTIMEDIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

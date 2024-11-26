@@ -1,0 +1,104 @@
+{
+    "Carrera": "LICENCIATURA EN RECURSOS HUMANOS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MATEMÁTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "ESCRITURA Y ORALIDAD",
+                        "CONTABILIDAD I",
+                        "HISTORIA ECONÓMICA MUNDIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ECONOMÍA",
+                        "DERECHO DEL TRABAJO INDIVIDUAL",
+                        "INTRODUCCIÓN A LA PSICOLOGÍA",
+                        "FILOSOFÍA Y ÉTICA",
+                        "SOCIOLOGÍA DE LA EMPRESA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PSICOLOGÍA DEL TRABAJO",
+                        "CONTABILIDAD GERENCIAL",
+                        "HIGIENE, SEGURIDAD Y MEDIO AMBIENTE",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "GESTIÓN OPERATIVA DE PERSONAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DERECHO DEL TRABAJO COLECTIVO Y DE LA SEGURIDAD SOCIAL",
+                        "EMPLEO Y SELECCIÓN DE PERSONAL",
+                        "GERENCIA DE OPERACIONES",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CAPACITACIÓN Y DESARROLLO",
+                        "COMUNICACIONES EN LA EMPRESA",
+                        "GESTIÓN DE LA DIVERSIDAD DE LOS RECURSOS HUMANOS",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "COACHING",
+                        "ECONOMÍA LABORAL",
+                        "GESTIÓN DE REMUNERACIONES Y BENEFICIOS",
+                        "CONSULTORÍA",
+                        "RELACIONES LABORALES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ANALÍTICA DE DATOS PARA LA GESTIÓN DE RECURSOS HUMANOS",
+                        "GESTIÓN INTERNACIONAL DE LOS RECURSOS HUMANOS",
+                        "DIRECCIÓN ESTRATÉGICA DE RECURSOS HUMANOS",
+                        "NUEVAS TENDENCIAS EN RECURSOS HUMANOS",
+                        "TRABAJO INTEGRADOR FINAL EN RECURSOS HUMANOS",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

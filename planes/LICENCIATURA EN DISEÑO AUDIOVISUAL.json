@@ -1,0 +1,105 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO AUDIOVISUAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA I",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO",
+                        "ILUMINACIÓN",
+                        "COMUNICACIÓN Y SEMIÓTICA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA II",
+                        "MONTAJE I",
+                        "DISEÑO AUDIOVISUAL I",
+                        "RECURSOS TÉCNICOS DE LA INDUSTRIA DEL ENTRETENIMIENTO",
+                        "METODOLOGÍA PROYECTUAL Y COMPOSICIÓN"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA III",
+                        "ESTÉTICA",
+                        "HISTORIA DE LA FOTOGRAFÍA Y DE LOS MEDIOS AUDIOVISUALES",
+                        "GUIÓN",
+                        "TEORÍA Y PRÁCTICA DEL SONIDO: EDICIÓN DE SONIDO, AUDIO DIGITAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO AUDIOVISUAL II",
+                        "DIRECCIÓN ARTÍSTICA",
+                        "PRODUCCIÓN TELEVISIVA DOCUMENTAL",
+                        "TALLER DE PRODUCCIÓN AUDIOVISUAL (TV, RADIO, CINE Y MEDIOS DIGITALES)",
+                        "MONTAJE II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR DE FOTOGRAFÍA",
+                        "DIRECCIÓN Y PUESTA EN ESCENA",
+                        "DIRECCIÓN DE FOTOGRAFÍA",
+                        "SONIDO Y ELABORACIÓN DE BANDA SONORA",
+                        "SEMIÓTICA DEL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO AUDIOVISUAL III",
+                        "TALLER DE PRODUCCIÓN Y REALIZACIÓN AUDIOVISUAL I (ENTRETENIMIENTO)",
+                        "GUIÓN II",
+                        "PUBLICIDAD EN MEDIOS AUDIOVISUALES",
+                        "GERENCIAMIENTO DE PROYECTOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO AUDIOVISUAL IV",
+                        "CINE Y VIDEO",
+                        "GRANDES PERSONALIDADES DE LA CULTURA ARGENTINA",
+                        "SEMINARIO: TÓPICOS DE AVANZADA I",
+                        "DISEÑO Y ANIMACIÓN 2D (MOTION GRAPHICS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL MARKETING",
+                        "PRINCIPIOS ÉTICOS Y JURÍDICOS DE LA INFORMACIÓN",
+                        "MÚSICA Y LENGUAJE AUDIOVISUAL",
+                        "INNOVACIÓN Y DISEÑO 3D",
+                        "TRABAJO INTEGRADOR DE DISEÑO AUDIOVISUAL"
+                    ]
+                }
+            ]
+        }
+    ]
+}

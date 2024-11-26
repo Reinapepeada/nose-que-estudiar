@@ -1,0 +1,155 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN CONTADOR PÚBLICO Y FINANZAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "INTRODUCCIÓN A LA CONTABILIDAD",
+                        "INTRODUCCIÓN AL DERECHO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARKETING",
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "INTRODUCCIÓN AL RÉGIMEN IMPOSITIVO",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "OBLIGACIONES Y CONTRATOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "MICROECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "INTRODUCCIÓN A LAS FINANZAS",
+                        "SISTEMAS DE COSTOS",
+                        "DERECHO SOCIETARIO",
+                        "ESTADOS CONTABLES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL Y CONTROL PRESUPUESTARIO",
+                        "TÓPICOS CONTABLES AVANZADOS",
+                        "IMPUESTOS A LA RENTA Y PATRIMONIO",
+                        "RÉGIMEN DEL TRABAJO Y LA SEGURIDAD SOCIAL",
+                        "MACROECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÍTULOS VALORES Y CONCURSOS",
+                        "SISTEMA FINANCIERO INTERNACIONAL",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "TALLER DE PRÁCTICA DE INTEGRACIÓN",
+                        "PRÁCTICA PROFESIONAL JURÍDICO CONTABLE"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS A LOS CONSUMOS Y A LAS TRANSACCIONES",
+                        "FINANZAS CORPORATIVAS I",
+                        "SEMINARIO DE INCUMBENCIAS PROFESIONALES",
+                        "AUDITORÍA",
+                        "GESTIÓN Y COSTOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD INTERNACIONAL",
+                        "PROCEDIMIENTO TRIBUTARIO Y AUDITORÍA FISCAL",
+                        "GESTIÓN DE IT",
+                        "PRÁCTICA PROFESIONAL SUPERVISADA",
+                        "SEMINARIO DE INTEGRACIÓN FINAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "SISTEMA FINANCIERO DOMÉSTICO",
+                        "TEORÍA DE CARTERAS",
+                        "INSTRUMENTOS DE RENTA FIJA",
+                        "FILOSOFÍA Y ÉTICA",
+                        "MATEMÁTICA III"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ECONOMETRÍA",
+                        "VALUACIÓN POR ARBITRAJE",
+                        "EVALUACIÓN DE RIESGO CREDITICIO",
+                        "FINANZAS CORPORATIVAS II",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Sexto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMETRÍA APLICADA",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS",
+                        "FINANZAS INTERNACIONALES",
+                        "VALUACIÓN DE EMPRESAS",
+                        "ADMINISTRACIÓN DE PORTAFOLIOS DE INVERSIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "NUEVAS TENDENCIAS EN FINANZAS",
+                        "PROGRAMACIÓN EN FINANZAS",
+                        "ADMINISTRACIÓN DE RIESGOS FINANCIEROS",
+                        "FUSIONES, ADQUISICIONES Y REESTRUCTURACIONES",
+                        "TRABAJO INTEGRADOR FINAL EN FINANZAS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

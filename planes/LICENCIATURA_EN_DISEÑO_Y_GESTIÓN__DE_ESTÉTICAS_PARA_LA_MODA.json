@@ -1,0 +1,101 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO Y GESTIÓN  DE ESTÉTICAS PARA LA MODA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "METODOLOGÍA PROYECTUAL",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "FOTOGRAFÍA DIGITAL",
+                        "SOCIOLOGÍA DE LA MODA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA PRODUCCIÓN DE ESTÉTICAS PARA LA MODA",
+                        "HISTORIA DEL TRAJE Y DE LOS TEXTILES I",
+                        "GESTIÓN Y ORGANIZACIÓN DE EVENTOS I",
+                        "COMUNICACIÓN Y SEMIÓTICA",
+                        "INTRODUCCIÓN A LAS TENDENCIAS ESTÉTICAS DE CONSUMO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA DE MODA",
+                        "HISTORIA DEL TRAJE Y DE LOS TEXTILES II",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS",
+                        "HISTORIA ECONÓMICA INTERNACIONAL",
+                        "DISEÑO DE TENDENCIAS ESTÉTICAS DE CONSUMO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (5 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y PRODUCCIÓN DE ESTÉTICAS PARA LA MODA I (MEDIOS EDITORIALES, NUEVAS PLATAFORMAS Y PRODUCCIÓN DE CONTENIDOS)",
+                        "CRÍTICA Y PRODUCCIÓN DE MODA",
+                        "TECNOLOGÍA Y FUNDAMENTOS DE LOS MEDIOS AUDIOVISUALES",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN EN COMUNICACIÓN",
+                        "DIRECCIÓN ARTÍSTICA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COMPORTAMIENTO DEL CONSUMIDOR",
+                        "ESTÉTICA",
+                        "DISEÑO Y PRODUCCIÓN DE ESTÉTICAS PARA LA MODA II (MEDIOS AUDIOVISUALES Y LENGUAJES PERFORMATIVOS)",
+                        "LABORATORIO DE TENDENCIAS",
+                        "SEMINARIO: TÓPICOS DE AVANZADA I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "POSTPRODUCCIÓN AUDIOVISUAL (CINE, TV,  MULTIMEDIA)",
+                        "HISTORIA ARGENTINA DEL SIGLO XX",
+                        "DISEÑO Y PRODUCCIÓN DE ESTÉTICAS PARA LA MODA III (EXHIBICIONES, INSTALACIONES  ESPACIALES, RETAIL)",
+                        "SEMINARIO DE INTEGRACIÓN PROFESIONAL EN DISEÑO Y GESTIÓN DE ESTÉTICAS PARA LA MODA",
+                        "SEMINARIO: TÓPICOS DE AVANZADA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "HISTORIA DEL ENTRETENIMIENTO",
+                        "DISEÑO DE PORTFOLIO",
+                        "TÉCNICAS DE NARRACIÓN PERIODÍSTICA",
+                        "DIRECCIÓN ESTRATÉGICA Y DE RECURSOS",
+                        "TRABAJO FINAL INTEGRADOR DE DISEÑO Y GESTIÓN DE ESTÉTICAS PARA LA MODA"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "Carrera": "LICENCIATURA EN GASTRONOMÍA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS BÁSICAS DE COCINA",
+                        "SERVICIO DE SALÓN Y TÉCNICAS DE VENTA",
+                        "INOCUIDAD ALIMENTARIA",
+                        "NUTRICIÓN",
+                        "INTRODUCCIÓN A LA EMPRESA DE HOSPITALIDAD",
+                        "LENGUAJE, LÓGICA Y ARGUMENTACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS BÁSICAS DE PASTELERÍA",
+                        "ENOLOGÍA I",
+                        "GESTIÓN CONTABLE DE LA EMPRESA DE HOSPITALIDAD",
+                        "HISTORIA DE LA ALIMENTACIÓN",
+                        "MATERIAS PRIMAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TÉCNICAS BÁSICAS DE CATERING Y PASTAS",
+                        "TÉCNICAS BÁSICAS DE PANADERÍA",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "COSTOS Y FUNDAMENTOS IMPOSITIVOS PARA LA INDUSTRIA GASTRONÓMICA",
+                        "CONSERVACIÓN AMBIENTAL Y RECICLAJE",
+                        "MARKETING DE SERVICIOS PARA LA INDUSTRIA DE LA HOSPITALIDAD"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ENOLOGÍA II",
+                        "TÉCNICAS AVANZADAS DE COCINA",
+                        "GASTRONOMÍA EN EVENTOS",
+                        "DISEÑO DEL ESPACIO GASTRONÓMICO",
+                        "BROMATOLOGÍA Y ANÁLISIS SENSORIAL",
+                        "ECONOMÍA APLICADA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CHOCOLATERÍA Y BOMBONERÍA",
+                        "COCINA ÉTNICA",
+                        "GESTIÓN DE OPERACIONES GASTRONÓMICAS",
+                        "ASPECTOS JURÍDICOS Y ÉTICOS DE LA GASTRONOMÍA",
+                        "TECNOLOGÍA CULINARIA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CHARCUTERIE, CONSERVAS Y FERMENTADOS",
+                        "PANADERÍA SUPERIOR",
+                        "PRÁCTICA PROFESIONAL SUPERVISADA",
+                        "FINANZAS",
+                        "GESTIÓN DE RECURSOS HUMANOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PASTELERÍA SUPERIOR",
+                        "BEBIDAS ESPIRITUOSAS",
+                        "ESTÉTICA E ICONOGRAFÍA DE LA ALIMENTACIÓN",
+                        "INTRODUCCIÓN AL DISEÑO DE ALIMENTOS",
+                        "EMPRENDIMIENTOS GASTRONÓMICOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COCTELERÍA Y GESTIÓN DE BARRA",
+                        "NUEVAS TECNOLOGÍAS  CULINARIAS",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "SOCIOLOGÍA DE LA ALIMENTACIÓN",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

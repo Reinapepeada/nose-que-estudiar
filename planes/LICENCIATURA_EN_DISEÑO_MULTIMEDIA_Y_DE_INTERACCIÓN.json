@@ -1,0 +1,101 @@
+{
+    "Carrera": "LICENCIATURA EN DISEÑO MULTIMEDIA Y DE INTERACCIÓN",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROBLEMÁTICAS DEL DISEÑO",
+                        "DISEÑO DE INTERACCIÓN I",
+                        "TIPOGRAFÍA I",
+                        "MORFOLOGÍA I ",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO MULTIMEDIA I",
+                        "DESARROLLO FRONTEND I",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "LABORATORIO DE TÉCNICAS VISUALES",
+                        "FOTOGRAFÍA DIGITAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERACCIÓN II ",
+                        "TIPOGRAFÍA II",
+                        "AUDIO DIGITAL",
+                        "PSICOLOGÍA DEL DISEÑO Y PROCESOS COGNITIVOS",
+                        "INTRODUCCIÓN AL MARKETING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO MULTIMEDIA II ",
+                        "DESARROLLO FRONTEND II",
+                        "CONTENIDOS AUDIOVISUALES",
+                        "ANIMACIÓN 2D",
+                        "SEMIÓTICA DEL DISEÑO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERACCIÓN III",
+                        "NARRATIVA INTERACTIVA",
+                        "MODELADO 3D",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO MULTIMEDIA III",
+                        "ANIMACIÓN GRÁFICA",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EMPRENDEDOR DE DISEÑO",
+                        "DISEÑO DE PORFOLIO",
+                        "SISTEMAS INTERACTIVOS",
+                        "DISEÑO Y PENSAMIENTO COMPLEJO",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL DE DISEÑO MULTIMEDIA Y DE INTERACCIÓN",
+                        "DISEÑO DE VIDEOJUEGOS",
+                        "TECNOLOGÍAS ELECTRÓNICAS Y NUEVOS MEDIOS PARA EL ARTE",
+                        "PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO"
+                    ]
+                }
+            ]
+        }
+    ]
+}

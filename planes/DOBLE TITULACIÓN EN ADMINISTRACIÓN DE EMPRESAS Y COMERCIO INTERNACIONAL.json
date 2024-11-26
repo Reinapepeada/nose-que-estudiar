@@ -1,0 +1,148 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN ADMINISTRACIÓN DE EMPRESAS Y COMERCIO INTERNACIONAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "INTRODUCCIÓN A LOS NEGOCIOS INTERNACIONALES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "ESCRITURA Y ORALIDAD",
+                        "HISTORIA ECONÓMICA MUNDIAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "COMERCIO INTERNACIONAL I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OBLIGACIONES, CONTRATOS Y SOCIEDADES",
+                        "DERECHO DEL TRABAJO INDIVIDUAL",
+                        "INVESTIGACIÓN EN MERCADOS INTERNACIONALES",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "CONTABILIDAD I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GEOGRAFÍA ECONÓMICA MUNDIAL Y ARGENTINA",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "CONTABILIDAD GERENCIAL",
+                        "MICROECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PLATAFORMAS Y NEGOCIOS WEB"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "SISTEMAS DE COSTOS",
+                        "CÁLCULO FINANCIERO",
+                        "MACROECONOMÍA",
+                        "PROGRAMACIÓN OPERATIVA",
+                        "MARKETING INTERNACIONAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "LOGÍSTICA INTERNACIONAL I",
+                        "IMPUESTOS",
+                        "GERENCIA DE OPERACIONES",
+                        "CONTROL DE GESTIÓN",
+                        "COMERCIO INTERNACIONAL II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "LOGÍSTICA INTERNACIONAL II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "OPERATIVA DEL COMERCIO INTERNACIONAL I",
+                        "FINANZAS CORPORATIVAS I",
+                        "ANÁLISIS ESTRATÉGICO DE DATOS",
+                        "LIDERAZGO Y NEGOCIACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONSULTORÍA",
+                        "NUEVAS TENDENCIAS EN ADMINISTRACIÓN",
+                        "SIMULACIONES Y TOMA DE DECISIONES EN NEGOCIOS",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ADMINISTRACIÓN",
+                        "DESARROLLO EMPRESARIAL",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CLASIFICACIÓN ARANCELARIA",
+                        "INTEGRACIÓN Y COOPERACIÓN ECONÓMICA",
+                        "DERECHO INTERNACIONAL",
+                        "OPERATIVA ADUANERA",
+                        "OPERATIVA DEL COMERCIO INTERNACIONAL II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA INTERNACIONAL",
+                        "INTERNACIONALIZACIÓN DE SERVICIOS",
+                        "TRABAJO INTEGRADOR FINAL EN COMERCIO INTERNACIONAL",
+                        "SISTEMAS DE GESTIÓN DE COMERCIO EXTERIOR"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "Carrera": "LICENCIATURA EN TURISMO Y HOTELERÍA (COSTA ARGENTINA)",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FUNDAMENTOS DEL SISTEMA TURÍSTICO",
+                        "HISTORIA DEL ARTE UNIVERSAL",
+                        "INTRODUCCIÓN A LA EMPRESA DE LA HOSPITALIDAD",
+                        "TALLER DE VIAJES I",
+                        "DEPARTAMENTO DE FRONT OFFICE Y HOUSEKEEPING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PORTUGUÉS I",
+                        "HISTORIA DE ARGENTINA Y AMÉRICA LATINA",
+                        "REDACCIÓN Y ORATORIA",
+                        "ESPACIOS GEOGRÁFICOS DE AMÉRICA Y ARGENTINA",
+                        "GESTIÓN CONTABLE DE LA EMPRESA DE LA HOSPITALIDAD"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INGLÉS I",
+                        "AGENCIA DE VIAJES Y TURISMO RECEPTIVO",
+                        "PORTUGUÉS II",
+                        "DEPARTAMENTO DE ALIMENTOS Y BEBIDAS",
+                        "TALLER DE VIAJES II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ESTADÍSTICA APLICADA A LA HOSPITALIDAD",
+                        "ESPACIOS GEOGRÁFICOS DE EUROPA Y ÁFRICA",
+                        "COSTOS Y FUNDAMENTOS IMPOSITIVOS TURÍSTICOS Y HOTELEROS",
+                        "MARKETING DE SERVICIOS DE HOSPITALIDAD",
+                        "SISTEMAS INFORMÁTICOS APLICADOS AL TURISMO Y LA HOTELERÍA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE RECURSOS HUMANOS DE LA HOSPITALIDAD",
+                        "POLÍTICA Y PLANIFICACIÓN TURÍSTICA",
+                        "TÉCNICAS DE INVESTIGACIÓN APLICADAS AL TURISMO Y LA HOTELERÍA",
+                        "TALLER DE VIAJES III",
+                        "DEPARTAMENTO DE ADMINISTRACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INGLÉS II",
+                        "TÓPICOS DE AVANZADA EN EL TURISMO Y LA HOTELERÍA",
+                        "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS TURÍSTICOS Y HOTELEROS",
+                        "TURISMO SOSTENIBLE",
+                        "ESPACIOS GEOGRÁFICOS DE ASIA Y OCEANÍA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MICRO Y MACROECONOMÍA DEL TURISMO Y LA HOTELERÍA",
+                        "NORMAS DE CALIDAD EN TURISMO Y HOTELERÍA",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL",
+                        "PATRIMONIO Y DESARROLLO TURÍSTICO",
+                        "DERECHO TURÍSTICO Y HOTELERO",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

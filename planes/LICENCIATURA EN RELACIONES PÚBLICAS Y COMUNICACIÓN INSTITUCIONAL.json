@@ -1,0 +1,105 @@
+{
+    "Carrera": "LICENCIATURA EN RELACIONES PÚBLICAS Y COMUNICACIÓN INSTITUCIONAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN DE EMPRESAS",
+                        "ELEMENTOS DE PSICOLOGÍA",
+                        "LENGUAJE, LÓGICA Y ARGUMENTACIÓN",
+                        "EXPRESIÓN ORAL Y ESCRITA",
+                        "INTRODUCCIÓN A LAS RELACIONES PÚBLICAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "SOCIOLOGÍA DE LA ORGANIZACIÓN",
+                        "INGLÉS I",
+                        "CONVERGENCIA MULTIMEDIAL ",
+                        "HERRAMIENTAS DE COMUNICACIÓN INSTITUCIONAL",
+                        "TEORÍA DE LAS RELACIONES PÚBLICAS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MÉTRICAS Y PLATAFORMAS DIGITALES ",
+                        "ORGANIZACIÓN DE EVENTOS, PROTOCOLO Y CEREMONIAL",
+                        "TEORÍA DE LA COMUNICACIÓN",
+                        "TALLER DE ORATORIA",
+                        "COMUNICACIÓN INSTITUCIONAL I (PÚBLICOS INTERNOS)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GESTIÓN INTEGRAL DE EVENTOS CORPORATIVOS",
+                        "COMUNICACIÓN EN REDES SOCIALES ",
+                        "INGLÉS II",
+                        "COMUNICACIÓN INSTITUCIONAL II (PÚBLICOS EXTERNOS)",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OPTATIVA (1 MATERIA)",
+                        "MEDIOS Y OPINIÓN PÚBLICA",
+                        "COMUNICACIONES INTEGRADAS ",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN EN COMUNICACIÓN",
+                        "HISTORIA MUNDIAL DEL SIGLO XX"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARCO LEGAL DE COMUNICACIÓN",
+                        "SEMIÓTICA",
+                        "TALLER DE IMAGEN INSTITUCIONAL",
+                        "COMUNICACIÓN EN CRISIS ",
+                        "POLÍTICA CONTEMPORÁNEA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "COMUNICACIÓN POLÍTICA Y ASUNTOS PÚBLICOS",
+                        "FINANZAS Y PRESUPUESTO ",
+                        "DIRECCIÓN ESTRATÉGICA DE LAS RELACIONES PÚBLICAS",
+                        "DESARROLLO DE EMPRENDIMIENTOS EN COMUNICACIÓN ",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "NEGOCIACIÓN Y LIDERAZGO",
+                        "ÉTICA DE LAS RELACIONES PÚBLICAS ",
+                        "SOSTENIBILIDAD, CULTURA Y DIVERSIDAD EN RELACIONES PÚBLICAS",
+                        "TRABAJO INTEGRADOR FINAL ",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

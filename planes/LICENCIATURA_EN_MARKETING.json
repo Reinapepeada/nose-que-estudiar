@@ -1,0 +1,105 @@
+{
+    "Carrera": "LICENCIATURA EN MARKETING",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "MATEMÁTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "CONTABILIDAD I",
+                        "ESCRITURA Y ORALIDAD",
+                        "HISTORIA ECONÓMICA MUNDIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "COMPORTAMIENTO DE COMPRA Y CONSUMO",
+                        "INTRODUCCIÓN A LA ECONOMÍA",
+                        "INVESTIGACIÓN DE MERCADOS",
+                        "PUBLICIDAD Y PROMOCIÓN",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL",
+                        "COMUNICACIÓN MULTIMEDIAL",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "LOGÍSTICA Y DISTRIBUCIÓN",
+                        "PLATAFORMAS Y NEGOCIOS WEB"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "OBLIGACIONES, CONTRATOS Y SOCIEDADES",
+                        "DESARROLLO E INNOVACIÓN EN PRODUCTOS",
+                        "ANÁLISIS DE DATOS DE MERCADO",
+                        "SISTEMAS DE COSTOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MARKETING ESTRATÉGICO",
+                        "INTELIGENCIA DE NEGOCIOS Y ANALÍTICA DIGITAL",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN ESTRATÉGICA DE VENTAS",
+                        "HERRAMIENTAS PARA ANÁLISIS FINANCIERO",
+                        "ESTRATEGIAS DE PRECIO",
+                        "DESARROLLO INTERNACIONAL DE NEGOCIOS",
+                        "ANÁLISIS Y TOMA DE DECISIONES EN MARKETING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ESTRATEGIA DE SERVICIOS",
+                        "CONSULTORÍA",
+                        "CONSTRUCCIÓN Y GESTIÓN DE MARCAS",
+                        "TRABAJO INTEGRADOR FINAL EN MARKETING",
+                        "EXAMEN DE INGLÉS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

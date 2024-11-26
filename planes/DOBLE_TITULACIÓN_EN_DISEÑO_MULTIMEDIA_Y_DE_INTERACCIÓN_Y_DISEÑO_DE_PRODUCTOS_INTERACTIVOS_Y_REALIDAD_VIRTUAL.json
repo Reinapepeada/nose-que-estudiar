@@ -1,0 +1,146 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN DISEÑO MULTIMEDIA Y DE INTERACCIÓN Y DISEÑO DE PRODUCTOS INTERACTIVOS Y REALIDAD VIRTUAL",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROBLEMÁTICAS DEL DISEÑO",
+                        "DISEÑO DE INTERACCIÓN I",
+                        "TIPOGRAFÍA I",
+                        "MODELADO Y REPRESENTACIÓN",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FORMAS Y ESPACIO TRIDIMENSIONAL",
+                        "DISEÑO MULTIMEDIA I",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL I",
+                        "DESARROLLO FRONTEND I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA DIGITAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERACCIÓN II ",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: OBJETOS INTELIGENTES",
+                        "LABORATORIO DE FORMAS BÁSICAS",
+                        "SISTEMAS INTERACTIVOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERFACES",
+                        "TECNOLOGÍA DE DESARROLLO I ",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: REALIDADES EXTENDIDAS",
+                        "CONTENIDOS AUDIOVISUALES",
+                        "MODELOS Y MAQUETAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL MARKETING"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "AUDIO DIGITAL",
+                        "DISEÑO DE INTERACCIÓN III",
+                        "MODELADO Y REPRESENTACIÓN DIGITAL II ",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS",
+                        "DISEÑO DE PRODUCTOS INTERACTIVOS: DESARROLLOS DE OBJETOS Y ESPACIOS INTELIGENTES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y ERGONOMÍA",
+                        "DISEÑO MULTIMEDIA II",
+                        "ANIMACIÓN GRÁFICA",
+                        "DISEÑO DE VIDEOJUEGOS",
+                        "TECNOLOGÍA DE DESARROLLO II "
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EMPRENDEDOR DE DISEÑO",
+                        "DISEÑO MULTIMEDIA III",
+                        "PSICOLOGÍA DEL DISEÑO Y PROCESOS COGNITIVOS",
+                        "NARRATIVA INTERACTIVA",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL DE DISEÑO MULTIMEDIA Y DE INTERACCIÓN",
+                        "LABORATORIO DE FORMAS AVANZADAS",
+                        "MANUFACTURA DIGITAL",
+                        "DISEÑO Y PENSAMIENTO COMPLEJO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MODELADO Y REPRESENTACIÓN DIGITAL III",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA II",
+                        "LABORATORIO DE FORMAS COMPLEJAS",
+                        "DISEÑO DE PORFOLIO",
+                        "TECNOLOGÍAS ELECTRÓNICAS Y NUEVOS MEDIOS PARA EL ARTE"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO FINAL DE DISEÑO DE PRODUCTOS INTERACTIVOS Y REALIDAD VIRTUAL",
+                        "DIRECCIÓN DE PROYECTOS",
+                        "ROBÓTICA BÁSICA Y MECATRÓNICA APLICADA AL DISEÑO",
+                        "TECNOLOGÍA DE DESARROLLO III"
+                    ]
+                }
+            ]
+        }
+    ]
+}

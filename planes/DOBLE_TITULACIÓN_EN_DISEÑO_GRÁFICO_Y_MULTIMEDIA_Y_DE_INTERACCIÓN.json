@@ -1,0 +1,140 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN DISEÑO GRÁFICO Y MULTIMEDIA Y DE INTERACCIÓN",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROBLEMÁTICAS DEL DISEÑO",
+                        "DISEÑO DE INTERACCIÓN I",
+                        "TIPOGRAFÍA I",
+                        "MORFOLOGÍA I ",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO I",
+                        "DISEÑO MULTIMEDIA I",
+                        "HISTORIA DEL ARTE Y DEL DISEÑO",
+                        "SEMIÓTICA DEL DISEÑO",
+                        "LABORATORIO DE TÉCNICAS VISUALES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FOTOGRAFÍA DIGITAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO DE INTERACCIÓN II ",
+                        "TIPOGRAFÍA II",
+                        "MORFOLOGÍA II",
+                        "ILUSTRACIÓN DIGITAL",
+                        "PUBLICACIÓN EDITORIAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO II",
+                        "DISEÑO MULTIMEDIA II",
+                        "TECNOLOGÍA GRÁFICA",
+                        "CONTENIDOS AUDIOVISUALES",
+                        "ANIMACIÓN 2D"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL MARKETING"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EDITORIAL",
+                        "DISEÑO DE INTERACCIÓN III",
+                        "MODELADO 3D",
+                        "ARTE CONTEMPORÁNEO, ESTÉTICA Y LENGUAJES COMBINADOS",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO GRÁFICO III",
+                        "DISEÑO DE LA INFORMACIÓN VISUAL",
+                        "ANIMACIÓN GRÁFICA",
+                        "DISEÑO MULTIMEDIA III",
+                        "PRINCIPIOS JURÍDICOS APLICADOS AL DISEÑO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROYECTO EMPRENDEDOR DE DISEÑO",
+                        "DESARROLLO FRONTEND I",
+                        "DISEÑO DE PORFOLIO",
+                        "DISEÑO ARQUIGRÁFICO",
+                        "SEMINARIO: TÓPICOS DE AVANZADA II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL DE DISEÑO GRÁFICO",
+                        "DISEÑO SOCIAL",
+                        "DISEÑO DE PRODUCTOS Y ENVASES",
+                        "DISEÑO Y PENSAMIENTO COMPLEJO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "NARRATIVA INTERACTIVA",
+                        "SISTEMAS INTERACTIVOS",
+                        "AUDIO DIGITAL",
+                        "PSICOLOGÍA DEL DISEÑO Y PROCESOS COGNITIVOS",
+                        "DESARROLLO FRONTEND II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TRABAJO INTEGRADOR FINAL DE DISEÑO MULTIMEDIA Y DE INTERACCIÓN",
+                        "DISEÑO DE VIDEOJUEGOS",
+                        "TECNOLOGÍAS ELECTRÓNICAS Y NUEVOS MEDIOS PARA EL ARTE",
+                        "SEMINARIO DE TÓPICOS DE AVANZADA II"
+                    ]
+                }
+            ]
+        }
+    ]
+}

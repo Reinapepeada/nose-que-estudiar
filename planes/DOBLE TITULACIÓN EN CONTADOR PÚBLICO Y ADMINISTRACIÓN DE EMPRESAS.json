@@ -1,0 +1,143 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN CONTADOR PÚBLICO Y ADMINISTRACIÓN DE EMPRESAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "INTRODUCCIÓN A LA CONTABILIDAD",
+                        "INTRODUCCIÓN AL DERECHO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "MARKETING",
+                        "ESCRITURA Y ORALIDAD",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "OBLIGACIONES Y CONTRATOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN AL RÉGIMEN IMPOSITIVO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "MICROECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "SISTEMAS DE COSTOS",
+                        "DERECHO SOCIETARIO",
+                        "ESTADOS CONTABLES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL Y CONTROL PRESUPUESTARIO",
+                        "IMPUESTOS A LA RENTA Y PATRIMONIO",
+                        "MACROECONOMÍA",
+                        "RÉGIMEN DEL TRABAJO Y LA SEGURIDAD SOCIAL",
+                        "DESARROLLO INTERNACIONAL DE NEGOCIOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÍTULOS VALORES Y CONCURSOS",
+                        "TÓPICOS CONTABLES AVANZADOS",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "TALLER DE PRÁCTICA DE INTEGRACIÓN",
+                        "PRÁCTICA PROFESIONAL JURÍDICO CONTABLE"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "GERENCIA DE OPERACIONES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS A LOS CONSUMOS Y A LAS TRANSACCIONES",
+                        "FINANZAS CORPORATIVAS I",
+                        "SEMINARIO DE INCUMBENCIAS PROFESIONALES",
+                        "GESTIÓN Y COSTOS",
+                        "AUDITORÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD INTERNACIONAL",
+                        "PROCEDIMIENTO TRIBUTARIO Y AUDITORÍA FISCAL",
+                        "GESTIÓN DE IT",
+                        "PRÁCTICA PROFESIONAL SUPERVISADA",
+                        "SEMINARIO DE INTEGRACIÓN FINAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PLATAFORMAS Y NEGOCIOS WEB",
+                        "PROGRAMACIÓN OPERATIVA",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "NUEVAS TENDENCIAS EN ADMINISTRACIÓN"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONSULTORÍA",
+                        "ANÁLISIS ESTRATÉGICO DE DATOS",
+                        "DESARROLLO EMPRESARIAL",
+                        "SIMULACIONES Y TOMA DE DECISIONES EN NEGOCIOS",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ADMINISTRACIÓN",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

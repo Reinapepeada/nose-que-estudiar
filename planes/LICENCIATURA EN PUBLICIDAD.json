@@ -1,0 +1,103 @@
+{
+    "Carrera": "LICENCIATURA EN PUBLICIDAD",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA PUBLICIDAD",
+                        "INTRODUCCIÓN AL MARKETING",
+                        "INTRODUCCIÓN A LA COMPRENSIÓN DEL ARTE CONTEMPORÁNEO",
+                        "CREATIVIDAD PUBLICITARIA",
+                        "TECNOLOGÍA DIGITAL PARA EL DISEÑO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DIRECCIÓN DE ARTE",
+                        "DIRECCIÓN DE CUENTAS",
+                        "TEORÍA DE LA COMUNICACIÓN",
+                        "PLANIFICACIÓN DE MEDIOS",
+                        "REDACCIÓN PUBLICITARIA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PLANIFICACIÓN ESTRATÉGICA",
+                        "PROPAGANDA Y COMUNICACIÓN POLÍTICA",
+                        "MARCAS Y CAMPAÑAS PUBLICITARIAS",
+                        "PRODUCCIÓN AUDIOVISUAL",
+                        "SEMIÓTICA DE LA PUBLICIDAD"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CAMPAÑAS GLOBALES Y CON CAUSA SOCIAL",
+                        "TALLER DE PROGRAMACIÓN I",
+                        "PUBLICIDAD DIGITAL I",
+                        "ASPECTOS JURÍDICOS Y ÉTICOS DE LA PUBLICIDAD",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PSICOLOGÍA APLICADA A LA PUBLICIDAD",
+                        "SOCIOLOGÍA",
+                        "ANALÍTICA DIGITAL",
+                        "INVESTIGACIÓN DE MERCADOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "PUBLICIDAD DIGITAL II",
+                        "PUBLICIDAD EN VIDEOJUEGOS",
+                        "COMUNICACIÓN PROMOCIONAL",
+                        "FOTOGRAFÍA DIGITAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CIENCIA DE DATOS",
+                        "DISEÑO MULTIMEDIA Y DE INTERACCIÓN (USABILIDAD Y ACCESIBILIDAD)",
+                        "DIRECCIÓN DE EMPRESAS PUBLICITARIAS",
+                        "INTELIGENCIA ARTIFICIAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO DE NEGOCIOS DIGITALES",
+                        "TRABAJO FINAL DE PUBLICIDAD",
+                        "OPTATIVA (2 MATERIAS)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

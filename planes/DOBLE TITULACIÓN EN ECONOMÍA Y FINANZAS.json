@@ -1,0 +1,161 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN ECONOMÍA Y FINANZAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "CONTABILIDAD I",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "FINANZAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "FILOSOFÍA Y ÉTICA",
+                        "MERCADOS FINANCIEROS, INSTITUCIONES E INSTRUMENTOS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MICROECONOMÍA PARA ECONOMISTAS",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "HISTORIA ECONÓMICA ARGENTINA",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "INGLÉS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD GERENCIAL",
+                        "MATEMÁTICA PARA ECONOMISTAS",
+                        "MACROECONOMÍA PARA ECONOMISTAS",
+                        "ANÁLISIS Y VALUACIÓN DE INSTRUMENTOS DE RENTA FIJA",
+                        "MERCADOS FINANCIEROS, INSTITUCIONES E INSTRUMENTOS II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MICROECONOMÍA SUPERIOR",
+                        "ECONOMÍA MATEMÁTICA",
+                        "MACROECONOMÍA SUPERIOR",
+                        "HISTORIA DEL PENSAMIENTO ECONÓMICO",
+                        "ECONOMETRÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA INTERNACIONAL REAL",
+                        "ORGANIZACIÓN INDUSTRIAL",
+                        "ECONOMÍA DEL RIESGO Y DE LA INFORMACIÓN",
+                        "ECONOMÍA MONETARIA",
+                        "MEDICIÓN DE LA COYUNTURA Y ESTRUCTURA ECONÓMICAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ESTADOS CONTABLES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA COMPUTACIONAL",
+                        "EVALUACIÓN DE PROYECTOS",
+                        "FINANZAS PÚBLICAS",
+                        "ECONOMETRÍA AVANZADA",
+                        "ECONOMÍA INTERNACIONAL MONETARIA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "POLÍTICA MONETARIA Y FISCAL",
+                        "CRECIMIENTO Y DESARROLLO ECONÓMICO",
+                        "ECONOMÍA DE LA REGULACIÓN",
+                        "POLÍTICA ECONÓMICA ARGENTINA",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FUSIONES, ADQUISICIONES Y REESTRUCTURACIONES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "TEORÍA FINANCIERA DE LA VALUACIÓN I",
+                        "FINANZAS CORPORATIVAS II",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS I",
+                        "EVALUACIÓN DE RIESGO CREDITICIO",
+                        "VALUACIÓN DE EMPRESAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN DE PORTAFOLIOS DE INVERSIÓN",
+                        "ADMINISTRACIÓN DE RIESGOS FINANCIEROS",
+                        "TEORÍA FINANCIERA DE LA VALUACIÓN II",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS II",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN FINANZAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS COMPUTACIONALES"
+                    ]
+                }
+            ]
+        }
+    ]
+}

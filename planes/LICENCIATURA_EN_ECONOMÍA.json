@@ -1,0 +1,106 @@
+{
+    "Carrera": "LICENCIATURA EN ECONOMÍA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ECONOMÍA",
+                        "MATEMÁTICA I",
+                        "CONTABILIDAD I",
+                        "INTRODUCCIÓN A LAS FINANZAS",
+                        "ADMINISTRACIÓN EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FILOSOFÍA Y ÉTICA",
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "ESTADÍSTICA I",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "SISTEMA FINANCIERO INTERNACIONAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MATEMÁTICA II",
+                        "ESTADÍSTICA II",
+                        "CÁLCULO FINANCIERO",
+                        "MICROECONOMÍA PARA ECONOMISTAS",
+                        "HISTORIA DEL PENSAMIENTO ECONÓMICO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "MICROECONOMÍA SUPERIOR",
+                        "MATEMÁTICA III",
+                        "MACROECONOMÍA PARA ECONOMISTAS",
+                        "ECONOMETRÍA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA MATEMÁTICA",
+                        "EVALUACIÓN DE PROYECTOS",
+                        "MACROECONOMÍA SUPERIOR",
+                        "ECONOMÍA INTERNACIONAL REAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ORGANIZACIÓN INDUSTRIAL",
+                        "ECONOMÍA DEL RIESGO Y DE LA INFORMACIÓN",
+                        "ECONOMÍA MONETARIA",
+                        "TALLER DE CONSTRUCCIÓN DE INDICADORES ECONÓMICOS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PROGRAMACIÓN PARA ECONOMISTAS",
+                        "FINANZAS PÚBLICAS",
+                        "ECONOMETRÍA APLICADA",
+                        "ECONOMÍA INTERNACIONAL MONETARIA",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "POLÍTICA MONETARIA Y FISCAL",
+                        "CRECIMIENTO Y DESARROLLO ECONÓMICO",
+                        "TÓPICOS DE AVANZADA EN ECONOMÍA",
+                        "POLÍTICA ECONÓMICA ARGENTINA",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ECONOMÍA",
+                        "EXAMEN DE INGLÉS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

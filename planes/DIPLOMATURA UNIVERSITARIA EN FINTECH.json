@@ -1,0 +1,31 @@
+{
+    "Carrera": "DIPLOMATURA UNIVERSITARIA EN FINTECH",
+    "Años": [
+        {
+            "Año": "Cursada",
+            "Cuatrimestres": []
+        },
+        {
+            "Año": "Plan de Estudios",
+            "Cuatrimestres": []
+        },
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "PANORAMA DEL ECOSISTEMA FINTECH",
+                        "MODELOS DE NEGOCIO FINTECH"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO DE PROYECTO FINTECH"
+                    ]
+                }
+            ]
+        }
+    ]
+}

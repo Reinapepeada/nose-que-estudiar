@@ -1,0 +1,160 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN ADMINISTRACIÓN DE EMPRESAS Y FINANZAS",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "MARKETING",
+                        "GESTIÓN DE LAS PERSONAS EN LAS ORGANIZACIONES",
+                        "INTRODUCCIÓN AL DERECHO",
+                        "ESTADÍSTICA EMPRESARIAL I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "LENGUAJE, LÓGICA Y ARGUMENTACIÓN",
+                        "CONTABILIDAD I",
+                        "HISTORIA ECONÓMICA MUNDIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "OBLIGACIONES Y CONTRATOS",
+                        "DERECHO DEL TRABAJO INDIVIDUAL",
+                        "MARKETING GLOBAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DERECHO SOCIETARIO",
+                        "MICROECONOMÍA",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "CONTABILIDAD GERENCIAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INGLÉS I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "PLATAFORMAS Y NEGOCIOS WEB",
+                        "GERENCIA DE OPERACIONES",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "MACROECONOMÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS",
+                        "SISTEMA DE COSTOS",
+                        "PROGRAMACIÓN OPERATIVA",
+                        "DIRECCIÓN ESTRATÉGICA",
+                        "MERCADOS FINANCIEROS, INSTITUCIONES E INSTRUMENTOS I"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INFORMACIÓN INTEGRADA DE LA EMPRESA",
+                        "FINANZAS CORPORATIVAS I",
+                        "LIDERAZGO Y NEGOCIACIÓN",
+                        "INNOVACIÓN EN VALOR",
+                        "MATEMÁTICA PARA ECONOMISTAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ANÁLISIS Y TOMA DE DECISIONES EMPRESARIALES",
+                        "DESARROLLO EMPRESARIAL",
+                        "SIMULACIONES DE NEGOCIOS",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN ADMINISTRACIÓN",
+                        "CONSULTORÍA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ESTADOS CONTABLES",
+                        "TEORÍA FINANCIERA DE LA VALUACIÓN I",
+                        "ANÁLISIS Y VALUACIÓN DE INSTRUMENTOS DE RENTA FIJA",
+                        "ECONOMÍA MATEMÁTICA",
+                        "FILOSOFÍA Y ÉTICA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS INTERNACIONALES",
+                        "MERCADOS FINANCIEROS, INSTITUCIONES E INSTRUMENTOS II",
+                        "ECONOMETRÍA",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS I",
+                        "TEORÍA FINANCIERA DE LA VALUACIÓN II"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Sexto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "EVALUACIÓN DE RIESGO CREDITICIO",
+                        "FINANZAS CORPORATIVAS II",
+                        "ADMINISTRACIÓN DE RIESGOS FINANCIEROS",
+                        "INSTRUMENTOS FINANCIEROS DERIVADOS II",
+                        "VALUACIÓN DE EMPRESAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FINANZAS COMPUTACIONALES",
+                        "FUSIONES, ADQUISICIONES Y REESTRUCTURACIONES",
+                        "ADMINISTRACIÓN DE PORTAFOLIOS DE INVERSIÓN",
+                        "TRABAJO DE INVESTIGACIÓN FINAL EN FINANZAS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

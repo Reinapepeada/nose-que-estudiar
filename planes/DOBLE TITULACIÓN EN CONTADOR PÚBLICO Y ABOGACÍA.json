@@ -1,0 +1,192 @@
+{
+    "Carrera": "DOBLE TITULACIÓN EN CONTADOR PÚBLICO Y ABOGACÍA",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ECONOMÍA",
+                        "MATEMÁTICA EMPRESARIAL I",
+                        "ADMINISTRACIÓN EMPRESARIAL I",
+                        "INTRODUCCIÓN A LA CONTABILIDAD",
+                        "INSTITUCIONES DE DERECHO PRIVADO I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "HISTORIA ECONÓMICA MUNDIAL",
+                        "MICROECONOMÍA",
+                        "INSTITUCIONES DE DERECHO PRIVADO II",
+                        "ESTADÍSTICA EMPRESARIAL I",
+                        "MARKETING"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "LENGUAJE, LÓGICA Y ARGUMENTACIÓN"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ADMINISTRACIÓN EMPRESARIAL II",
+                        "DERECHO CONSTITUCIONAL",
+                        "MODELOS CONTABLES Y MEDICIÓN",
+                        "MATEMÁTICA EMPRESARIAL II",
+                        "TEORÍA GENERAL DE LAS OBLIGACIONES"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CÁLCULO FINANCIERO",
+                        "ESTADÍSTICA EMPRESARIAL II",
+                        "DERECHO DE DAÑOS",
+                        "ESTADOS CONTABLES",
+                        "SISTEMAS DE COSTOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "RÉGIMEN DEL TRABAJO Y LA SEGURIDAD SOCIAL"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "MACROECONOMÍA",
+                        "CONTABILIDAD GERENCIAL Y CONTROL PRESUPUESTARIO",
+                        "DISEÑO Y AUDITORÍA DE SISTEMAS DE INFORMACIÓN",
+                        "INTRODUCCIÓN AL RÉGIMEN IMPOSITIVO",
+                        "PERSONAS JURÍDICAS PRIVADAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÍTULOS VALORES Y CONCURSOS",
+                        "DERECHO PROCESAL, CIVIL Y COMERCIAL",
+                        "TEORÍA GENERAL DE LOS CONTRATOS",
+                        "TALLER DE PRÁCTICA DE INTEGRACIÓN",
+                        "IMPUESTOS A LA RENTA Y PATRIMONIO"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "TÓPICOS CONTABLES AVANZADOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Cuarto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "IMPUESTOS A LOS CONSUMOS Y A LAS TRANSACCIONES",
+                        "FINANZAS CORPORATIVAS I",
+                        "METODOLOGÍA DE LA INVESTIGACIÓN JURÍDICA",
+                        "GESTIÓN DE IT",
+                        "AUDITORÍA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "CONTABILIDAD INTERNACIONAL",
+                        "GESTIÓN Y COSTOS",
+                        "PROCEDIMIENTO TRIBUTARIO Y AUDITORÍA FISCAL",
+                        "PRÁCTICA PROFESIONAL SUPERVISADA",
+                        "SEMINARIO DE INTEGRACIÓN FINAL"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCION A LOS SISTEMAS  JURIDICOS"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Quinto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INGLÉS",
+                        "DERECHO INTERNACIONAL PÚBLICO",
+                        "DERECHOS REALES",
+                        "ESTADO Y SOCIEDAD",
+                        "TEORÍA GENERAL DEL DERECHO",
+                        "DERECHOS HUMANOS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DERECHO ADMINISTRATIVO",
+                        "PRÁCTICA Y ESTRATEGIA PROCESAL",
+                        "DERECHO PROCESAL PENAL",
+                        "DERECHO PENAL I",
+                        "DERECHO DE FAMILIA"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "FILOSOFÍA Y ÉTICA"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Sexto Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "FILOSOFÍA DEL DERECHO",
+                        "DERECHO PENAL II"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "CONTRATOS CIVILES Y COMERCIALES",
+                        "DERECHO AMBIENTAL Y DE LOS RECURSOS NATURALES",
+                        "RESOLUCIÓN DE CONTROVERSIAS"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DERECHO INFORMÁTICO Y DE LA PROPIEDAD INTELECTUAL",
+                        "DERECHO DE SUCESIONES",
+                        "DERECHO INTERNACIONAL PRIVADO",
+                        "TRABAJO DE INTEGRACIÓN FINAL",
+                        "DERECHO DEL CONSUMIDOR",
+                        "DERECHO ADUANERO, DE LA NAVEGACIÓN Y AERONÁUTICO"
+                    ]
+                }
+            ]
+        }
+    ]
+}
