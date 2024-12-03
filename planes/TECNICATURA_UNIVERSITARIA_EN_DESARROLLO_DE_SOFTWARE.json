@@ -1,0 +1,65 @@
+{
+    "Carrera": "TECNICATURA UNIVERSITARIA EN DESARROLLO DE SOFTWARE",
+    "Años": [
+        {
+            "Año": "Primer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "INTRODUCCIÓN A LA ALGORITMIA",
+                        "SISTEMAS DE INFORMACIÓN I",
+                        "ARQUITECTURA DE COMPUTADORES",
+                        "DISEÑO Y DESARROLLO WEB"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "ALGORITMOS Y ESTRUCTURAS DE DATOS I",
+                        "SISTEMAS DE INFORMACIÓN II",
+                        "SISTEMAS OPERATIVOS",
+                        "TESTING DE APLICACIONES"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Segundo Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+                        "PARADIGMA ORIENTADO A OBJETOS",
+                        "REDES DE DATOS",
+                        "INGENIERÍA DE DATOS I"
+                    ]
+                },
+                {
+                    "Cuatrimestre": "Segundo Cuatrimestre",
+                    "Materias": [
+                        "DISEÑO Y ANÁLISIS DE ALGORITMOS",
+                        "PROCESO DE DESARROLLO DE SOFTWARE",
+                        "APLICACIONES INTERACTIVAS",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        },
+        {
+            "Año": "Tercer Año",
+            "Cuatrimestres": [
+                {
+                    "Cuatrimestre": "Primer Cuatrimestre",
+                    "Materias": [
+                        "DESARROLLO DE APLICACIONES I",
+                        "INGENIERÍA DE DATOS II",
+                        "TRABAJO INTEGRADOR FINAL",
+                        "OPTATIVA (1 MATERIA)"
+                    ]
+                }
+            ]
+        }
+    ]
+}
